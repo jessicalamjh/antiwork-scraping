@@ -2,8 +2,14 @@
 
 ## Reddit's r/antiwork
 
+Update 2022-01-17
+
 - Posts and comments scraped with [PSAW](https://psaw.readthedocs.io/en/latest)
-- 
+- Notes
+  - PMAW constantly warns that a few shards are down, thus retrieved data could be incomplete 
+    - Currently looking up ways to ensure this does not happen
+  - There are posts whose selftexts were not fully extracted, e.g. from [this post](https://www.reddit.com/r/antiwork/comments/eodidy/what_the_fuck_is_the_point_of_a_resume_when_the/), only the first sentence was retrieved
+    - This may be a consequence of the shards issue
 
 ## TikTok's #antiwork
 
