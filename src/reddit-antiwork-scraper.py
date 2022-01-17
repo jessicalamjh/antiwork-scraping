@@ -2,8 +2,7 @@ import argparse
 from datetime import datetime, timedelta
 import json
 import os.path as path
-from tqdm import tqdm
-import warnings
+import time
 
 from pmaw import PushshiftAPI
 
@@ -18,9 +17,6 @@ parser.add_argument("--output-dir", help="Where to store scraped outputs")
 args = parser.parse_args()
 
 ###############################################################################
-# suppress shards warning
-warnings.simplefilter("ignore")
-
 # output directory
 output_dir = path.join(args.output_dir, args.mode)
 
@@ -31,28 +27,11 @@ if args.mode == "posts":
 else:
     searcher = api.search_comments
 
-# for easy export as JSONL file
-ALLOWED_TYPES = set(
-    [type(None), bool, int, float, str, tuple, list, dict, set])
-
-def make_json_formattable(dictionary, allowed_types=ALLOWED_TYPES):
-    out = dictionary.copy()
-    for k, v in dictionary.items():
-
-        # force unacceptable values to be strings
-        if type(v) not in allowed_types:
-            name = str(v)
-            out[k] = name
-
-            # delete values that cannot be coerced into strings
-            if str(v) == repr(v): 
-                del out[k]
-
-    return out
-
 ###############################################################################
 # run
 if __name__ == '__main__':
+    
+    start_time = time.time()
 
     # prepare timeframe
     start = [int(_) for _ in args.start.split("-")]
@@ -62,12 +41,13 @@ if __name__ == '__main__':
 
     print(f"Scraping {args.mode} between {start} and {end} from r/antiwork")
     
-    for i in tqdm(range((end - start).days)):
+    for i in range((end - start).days):
 
         # prepare start and end of date
         date = start + timedelta(i)
         after = int(date.timestamp())
         before = int((date + timedelta(1)).timestamp())
+        print(f"\nCurrently on: {date.strftime('%Y-%m-%d')}")
 
         # export posts/comments made on this date
         outpath = path.join(
@@ -75,6 +55,11 @@ if __name__ == '__main__':
 
         f_out = open(outpath, 'w')
         for entry in searcher(subreddit="antiwork", after=after, before=before):
-            out = make_json_formattable(entry)
-            print(json.dumps(out), file=f_out)
+            # out = make_json_formattable(entry)
+            print(json.dumps(entry), file=f_out)
         f_out.close()
+
+        print(f"Cumulative time elapsed: {time.time() - start_time}s")
+
+    # report time
+    print(f"\nTotal time elapsed: {time.time() - start_time}s")
