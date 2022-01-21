@@ -1,0 +1,2459 @@
+Currently on: 2021-01-01
+INFO:pmaw.PushshiftAPIBase:933 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 15 - Batches: 2 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 17.953532218933105s
+
+Currently on: 2021-01-02
+INFO:pmaw.PushshiftAPIBase:1406 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 20 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 23.57799005508423s
+
+Currently on: 2021-01-03
+INFO:pmaw.PushshiftAPIBase:1633 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 22 - Batches: 3 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 24.596290111541748s
+
+Currently on: 2021-01-04
+INFO:pmaw.PushshiftAPIBase:1663 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 22 - Batches: 3 - Items Remaining: 0
+Time taken: 21.439810752868652s
+
+Currently on: 2021-01-05
+INFO:pmaw.PushshiftAPIBase:1583 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 21 - Batches: 3 - Items Remaining: 0
+Time taken: 21.80707621574402s
+
+Currently on: 2021-01-06
+INFO:pmaw.PushshiftAPIBase:1438 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 19 - Batches: 2 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 24.244319915771484s
+
+Currently on: 2021-01-07
+INFO:pmaw.PushshiftAPIBase:1527 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 19 - Batches: 3 - Items Remaining: 0
+Time taken: 21.234766721725464s
+
+Currently on: 2021-01-08
+INFO:pmaw.PushshiftAPIBase:1462 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 19 - Batches: 3 - Items Remaining: 0
+Time taken: 17.246684074401855s
+
+Currently on: 2021-01-09
+INFO:pmaw.PushshiftAPIBase:1116 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 16 - Batches: 2 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 21.969099044799805s
+
+Currently on: 2021-01-10
+INFO:pmaw.PushshiftAPIBase:1262 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 17 - Batches: 2 - Items Remaining: 0
+Time taken: 13.610527992248535s
+
+Currently on: 2021-01-11
+INFO:pmaw.PushshiftAPIBase:1088 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 14 - Batches: 2 - Items Remaining: 0
+Time taken: 16.718628883361816s
+
+Currently on: 2021-01-12
+INFO:pmaw.PushshiftAPIBase:1318 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 18 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 23.428230047225952s
+
+Currently on: 2021-01-13
+INFO:pmaw.PushshiftAPIBase:1312 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 18 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 20.05612087249756s
+
+Currently on: 2021-01-14
+INFO:pmaw.PushshiftAPIBase:1633 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 95.45% - Requests: 22 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 20.24840784072876s
+
+Currently on: 2021-01-15
+INFO:pmaw.PushshiftAPIBase:1957 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 26 - Batches: 3 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 34.45427203178406s
+
+Currently on: 2021-01-16
+INFO:pmaw.PushshiftAPIBase:2121 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 79.41% - Requests: 34 - Batches: 6 - Items Remaining: 0
+Time taken: 35.23539757728577s
+
+Currently on: 2021-01-17
+INFO:pmaw.PushshiftAPIBase:2086 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 96.30% - Requests: 27 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 34.6077024936676s
+
+Currently on: 2021-01-18
+INFO:pmaw.PushshiftAPIBase:2421 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 90.62% - Requests: 32 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 29.65502142906189s
+
+Currently on: 2021-01-19
+INFO:pmaw.PushshiftAPIBase:1477 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 90.91% - Requests: 22 - Batches: 4 - Items Remaining: 0
+Time taken: 29.533252716064453s
+
+Currently on: 2021-01-20
+INFO:pmaw.PushshiftAPIBase:1463 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 20 - Batches: 3 - Items Remaining: 0
+Time taken: 19.831669569015503s
+
+Currently on: 2021-01-21
+INFO:pmaw.PushshiftAPIBase:1347 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 81.82% - Requests: 22 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 30.57397985458374s
+
+Currently on: 2021-01-22
+INFO:pmaw.PushshiftAPIBase:1418 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.36% - Requests: 22 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 20.809752941131592s
+
+Currently on: 2021-01-23
+INFO:pmaw.PushshiftAPIBase:1236 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.36% - Requests: 22 - Batches: 3 - Items Remaining: 0
+Time taken: 18.450273036956787s
+
+Currently on: 2021-01-24
+INFO:pmaw.PushshiftAPIBase:515 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 92.31% - Requests: 13 - Batches: 2 - Items Remaining: 0
+Time taken: 19.983936309814453s
+
+Currently on: 2021-01-25
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 4.897780656814575s
+
+Currently on: 2021-01-26
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.4049234390258789s
+
+Currently on: 2021-01-27
+INFO:pmaw.PushshiftAPIBase:387 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 12 - Batches: 2 - Items Remaining: 0
+Time taken: 11.712731838226318s
+
+Currently on: 2021-01-28
+INFO:pmaw.PushshiftAPIBase:1257 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 18 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 18.050455808639526s
+
+Currently on: 2021-01-29
+INFO:pmaw.PushshiftAPIBase:1158 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 75.00% - Requests: 24 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 30.60387086868286s
+
+Currently on: 2021-01-30
+INFO:pmaw.PushshiftAPIBase:1678 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 85.71% - Requests: 28 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 31.24890947341919s
+
+Currently on: 2021-01-31
+INFO:pmaw.PushshiftAPIBase:1260 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 15 - Batches: 3 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 13.050677299499512s
+
+Currently on: 2021-02-01
+INFO:pmaw.PushshiftAPIBase:1272 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 72.00% - Requests: 25 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 32.99023771286011s
+
+Currently on: 2021-02-02
+INFO:pmaw.PushshiftAPIBase:1244 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 85.71% - Requests: 21 - Batches: 5 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 20.593647241592407s
+
+Currently on: 2021-02-03
+INFO:pmaw.PushshiftAPIBase:1442 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 20 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 17.86618185043335s
+
+Currently on: 2021-02-04
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 4.933267116546631s
+
+Currently on: 2021-02-05
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.25301575660705566s
+
+Currently on: 2021-02-06
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 1.6235058307647705s
+
+Currently on: 2021-02-07
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.34787797927856445s
+
+Currently on: 2021-02-08
+INFO:pmaw.PushshiftAPIBase:981 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 17 - Batches: 3 - Items Remaining: 0
+Time taken: 28.262394189834595s
+
+Currently on: 2021-02-09
+INFO:pmaw.PushshiftAPIBase:1614 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 84.00% - Requests: 25 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 17.6511652469635s
+
+Currently on: 2021-02-10
+INFO:pmaw.PushshiftAPIBase:1247 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 85.00% - Requests: 20 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 26.028413772583008s
+
+Currently on: 2021-02-11
+INFO:pmaw.PushshiftAPIBase:1464 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 19 - Batches: 3 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 95.24% - Requests: 21 - Batches: 5 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 23.00398302078247s
+
+Currently on: 2021-02-12
+INFO:pmaw.PushshiftAPIBase:2120 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 96.43% - Requests: 28 - Batches: 4 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 32.77358031272888s
+
+Currently on: 2021-02-13
+INFO:pmaw.PushshiftAPIBase:1271 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 20 - Batches: 3 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 30.954593658447266s
+
+Currently on: 2021-02-14
+INFO:pmaw.PushshiftAPIBase:1177 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 70.83% - Requests: 24 - Batches: 3 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 16.232104063034058s
+
+Currently on: 2021-02-15
+INFO:pmaw.PushshiftAPIBase:1728 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 22 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 37.052716970443726s
+
+Currently on: 2021-02-16
+INFO:pmaw.PushshiftAPIBase:1193 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 95.24% - Requests: 21 - Batches: 3 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 19.91690707206726s
+
+Currently on: 2021-02-17
+INFO:pmaw.PushshiftAPIBase:432 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 65.00% - Requests: 20 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 16.993900537490845s
+
+Currently on: 2021-02-18
+INFO:pmaw.PushshiftAPIBase:1300 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 19 - Batches: 3 - Items Remaining: 9
+INFO:pmaw.PushshiftAPIBase:9 result(s) not found in Pushshift
+Time taken: 32.06526231765747s
+
+Currently on: 2021-02-19
+INFO:pmaw.PushshiftAPIBase:1357 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 18 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 16.069770097732544s
+
+Currently on: 2021-02-20
+INFO:pmaw.PushshiftAPIBase:1343 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 70.83% - Requests: 24 - Batches: 3 - Items Remaining: 0
+Time taken: 23.646484375s
+
+Currently on: 2021-02-21
+INFO:pmaw.PushshiftAPIBase:1512 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 22 - Batches: 3 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 27.58833599090576s
+
+Currently on: 2021-02-22
+INFO:pmaw.PushshiftAPIBase:1606 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 82.76% - Requests: 29 - Batches: 4 - Items Remaining: 9
+INFO:pmaw.PushshiftAPIBase:9 result(s) not found in Pushshift
+Time taken: 24.190248250961304s
+
+Currently on: 2021-02-23
+INFO:pmaw.PushshiftAPIBase:1377 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 19 - Batches: 3 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 29.72440505027771s
+
+Currently on: 2021-02-24
+INFO:pmaw.PushshiftAPIBase:1796 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 23 - Batches: 3 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 21.242807149887085s
+
+Currently on: 2021-02-25
+INFO:pmaw.PushshiftAPIBase:1811 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 88.46% - Requests: 26 - Batches: 4 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 28.916641235351562s
+
+Currently on: 2021-02-26
+INFO:pmaw.PushshiftAPIBase:2223 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 29 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 34.180602073669434s
+
+Currently on: 2021-02-27
+INFO:pmaw.PushshiftAPIBase:557 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 14 - Batches: 3 - Items Remaining: 0
+Time taken: 15.059305667877197s
+
+Currently on: 2021-02-28
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.24088120460510254s
+
+Currently on: 2021-03-01
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.8516027927398682s
+
+Currently on: 2021-03-02
+INFO:pmaw.PushshiftAPIBase:910 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 18 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 24.28555202484131s
+
+Currently on: 2021-03-03
+INFO:pmaw.PushshiftAPIBase:1821 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 92.59% - Requests: 27 - Batches: 4 - Items Remaining: 10
+INFO:pmaw.PushshiftAPIBase:10 result(s) not found in Pushshift
+Time taken: 26.721349954605103s
+
+Currently on: 2021-03-04
+INFO:pmaw.PushshiftAPIBase:2710 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.74% - Requests: 39 - Batches: 5 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 52.10123324394226s
+
+Currently on: 2021-03-05
+INFO:pmaw.PushshiftAPIBase:183 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 64.29% - Requests: 14 - Batches: 2 - Items Remaining: 0
+Time taken: 6.179658651351929s
+
+Currently on: 2021-03-06
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.7943248748779297s
+
+Currently on: 2021-03-07
+INFO:pmaw.PushshiftAPIBase:140 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 91.67% - Requests: 12 - Batches: 2 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 22.451245069503784s
+
+Currently on: 2021-03-08
+INFO:pmaw.PushshiftAPIBase:923 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 72.73% - Requests: 22 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 15.763573408126831s
+
+Currently on: 2021-03-09
+INFO:pmaw.PushshiftAPIBase:1453 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 83.33% - Requests: 24 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 35.85542011260986s
+
+Currently on: 2021-03-10
+INFO:pmaw.PushshiftAPIBase:1672 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 80.77% - Requests: 26 - Batches: 5 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 20.65568494796753s
+
+Currently on: 2021-03-11
+INFO:pmaw.PushshiftAPIBase:2339 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 30 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 39.98528432846069s
+
+Currently on: 2021-03-12
+INFO:pmaw.PushshiftAPIBase:1581 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 76.67% - Requests: 30 - Batches: 5 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 28.854777574539185s
+
+Currently on: 2021-03-13
+INFO:pmaw.PushshiftAPIBase:1704 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 24 - Batches: 4 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 37.448134422302246s
+
+Currently on: 2021-03-14
+INFO:pmaw.PushshiftAPIBase:1730 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 68.75% - Requests: 32 - Batches: 5 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 25.222524404525757s
+
+Currently on: 2021-03-15
+INFO:pmaw.PushshiftAPIBase:1543 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 21 - Batches: 3 - Items Remaining: 0
+Time taken: 33.65396070480347s
+
+Currently on: 2021-03-16
+INFO:pmaw.PushshiftAPIBase:1966 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 96.15% - Requests: 26 - Batches: 4 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 25.862703561782837s
+
+Currently on: 2021-03-17
+INFO:pmaw.PushshiftAPIBase:1213 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 18 - Batches: 3 - Items Remaining: 0
+Time taken: 19.727843523025513s
+
+Currently on: 2021-03-18
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 3.577512264251709s
+
+Currently on: 2021-03-19
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.899909496307373s
+
+Currently on: 2021-03-20
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.9830760955810547s
+
+Currently on: 2021-03-21
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 6.714120149612427s
+
+Currently on: 2021-03-22
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.24915814399719238s
+
+Currently on: 2021-03-23
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.8714714050292969s
+
+Currently on: 2021-03-24
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2320539951324463s
+
+Currently on: 2021-03-25
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.29755401611328125s
+
+Currently on: 2021-03-26
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.8050439357757568s
+
+Currently on: 2021-03-27
+INFO:pmaw.PushshiftAPIBase:152 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 10 - Batches: 1 - Items Remaining: 0
+Time taken: 11.717735290527344s
+
+Currently on: 2021-03-28
+INFO:pmaw.PushshiftAPIBase:1461 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 21 - Batches: 3 - Items Remaining: 0
+Time taken: 20.7527117729187s
+
+Currently on: 2021-03-29
+INFO:pmaw.PushshiftAPIBase:4267 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.83% - Requests: 59 - Batches: 8 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 71.62550210952759s
+
+Currently on: 2021-03-30
+INFO:pmaw.PushshiftAPIBase:1815 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 75.86% - Requests: 29 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 27.80559539794922s
+
+Currently on: 2021-03-31
+INFO:pmaw.PushshiftAPIBase:1557 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 88.00% - Requests: 25 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 28.165724754333496s
+
+Currently on: 2021-04-01
+INFO:pmaw.PushshiftAPIBase:1884 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 68.42% - Requests: 38 - Batches: 5 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 40.40614032745361s
+
+Currently on: 2021-04-02
+INFO:pmaw.PushshiftAPIBase:1988 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.66% - Requests: 29 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 46.20154404640198s
+
+Currently on: 2021-04-03
+INFO:pmaw.PushshiftAPIBase:1414 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 63.33% - Requests: 30 - Batches: 5 - Items Remaining: 0
+Time taken: 28.036725282669067s
+
+Currently on: 2021-04-04
+INFO:pmaw.PushshiftAPIBase:1476 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 74.07% - Requests: 27 - Batches: 4 - Items Remaining: 0
+Time taken: 36.23255372047424s
+
+Currently on: 2021-04-05
+INFO:pmaw.PushshiftAPIBase:1732 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 62.50% - Requests: 32 - Batches: 5 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 26.58027482032776s
+
+Currently on: 2021-04-06
+INFO:pmaw.PushshiftAPIBase:1801 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 92.31% - Requests: 26 - Batches: 4 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 38.33236336708069s
+
+Currently on: 2021-04-07
+INFO:pmaw.PushshiftAPIBase:1627 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 53.85% - Requests: 39 - Batches: 6 - Items Remaining: 0
+Time taken: 48.77937030792236s
+
+Currently on: 2021-04-08
+INFO:pmaw.PushshiftAPIBase:2643 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 87.18% - Requests: 39 - Batches: 4 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 50.27600288391113s
+
+Currently on: 2021-04-09
+INFO:pmaw.PushshiftAPIBase:2611 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 77.27% - Requests: 44 - Batches: 5 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 43.09447979927063s
+
+Currently on: 2021-04-10
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.942612886428833s
+
+Currently on: 2021-04-11
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.9681575298309326s
+
+Currently on: 2021-04-12
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.9587140083312988s
+
+Currently on: 2021-04-13
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 1.0395493507385254s
+
+Currently on: 2021-04-14
+INFO:pmaw.PushshiftAPIBase:1718 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 85.19% - Requests: 27 - Batches: 5 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 23.570250034332275s
+
+Currently on: 2021-04-15
+INFO:pmaw.PushshiftAPIBase:1585 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 20 - Batches: 3 - Items Remaining: 0
+Time taken: 46.067143201828s
+
+Currently on: 2021-04-16
+INFO:pmaw.PushshiftAPIBase:2016 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 57.45% - Requests: 47 - Batches: 6 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 51.905336141586304s
+
+Currently on: 2021-04-17
+INFO:pmaw.PushshiftAPIBase:1838 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 24 - Batches: 3 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 29.183240175247192s
+
+Currently on: 2021-04-18
+INFO:pmaw.PushshiftAPIBase:2225 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 90.62% - Requests: 32 - Batches: 5 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 33.66463780403137s
+
+Currently on: 2021-04-19
+INFO:pmaw.PushshiftAPIBase:3988 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 92.59% - Requests: 54 - Batches: 6 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 57.73009967803955s
+
+Currently on: 2021-04-20
+INFO:pmaw.PushshiftAPIBase:2000 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 25 - Batches: 3 - Items Remaining: 0
+Time taken: 31.06444811820984s
+
+Currently on: 2021-04-21
+INFO:pmaw.PushshiftAPIBase:3078 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 92.68% - Requests: 41 - Batches: 5 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 39.540141582489014s
+
+Currently on: 2021-04-22
+INFO:pmaw.PushshiftAPIBase:2943 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 38 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 41.499462842941284s
+
+Currently on: 2021-04-23
+INFO:pmaw.PushshiftAPIBase:2363 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.11% - Requests: 36 - Batches: 5 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 45.97065711021423s
+
+Currently on: 2021-04-24
+INFO:pmaw.PushshiftAPIBase:2437 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 81.58% - Requests: 38 - Batches: 5 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 28.121548414230347s
+
+Currently on: 2021-04-25
+INFO:pmaw.PushshiftAPIBase:2162 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 27 - Batches: 4 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 40.005775690078735s
+
+Currently on: 2021-04-26
+INFO:pmaw.PushshiftAPIBase:2189 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 78.79% - Requests: 33 - Batches: 5 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 29.29919934272766s
+
+Currently on: 2021-04-27
+INFO:pmaw.PushshiftAPIBase:2501 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 97.14% - Requests: 35 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 49.09141564369202s
+
+Currently on: 2021-04-28
+INFO:pmaw.PushshiftAPIBase:4626 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.23% - Requests: 65 - Batches: 7 - Items Remaining: 18
+INFO:pmaw.PushshiftAPIBase:18 result(s) not found in Pushshift
+Time taken: 79.02441763877869s
+
+Currently on: 2021-04-29
+INFO:pmaw.PushshiftAPIBase:3609 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 92.00% - Requests: 50 - Batches: 6 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 45.50258922576904s
+
+Currently on: 2021-04-30
+INFO:pmaw.PushshiftAPIBase:2588 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 33 - Batches: 4 - Items Remaining: 0
+Time taken: 42.130120515823364s
+
+Currently on: 2021-05-01
+INFO:pmaw.PushshiftAPIBase:2188 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 31 - Batches: 4 - Items Remaining: 0
+Time taken: 34.492316007614136s
+
+Currently on: 2021-05-02
+INFO:pmaw.PushshiftAPIBase:2024 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 25 - Batches: 3 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 24.945777654647827s
+
+Currently on: 2021-05-03
+INFO:pmaw.PushshiftAPIBase:2015 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 27 - Batches: 4 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 33.22520565986633s
+
+Currently on: 2021-05-04
+INFO:pmaw.PushshiftAPIBase:2508 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 31 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 31.549635887145996s
+
+Currently on: 2021-05-05
+INFO:pmaw.PushshiftAPIBase:4778 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 98.31% - Requests: 59 - Batches: 7 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 61.39242339134216s
+
+Currently on: 2021-05-06
+INFO:pmaw.PushshiftAPIBase:4763 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 98.39% - Requests: 62 - Batches: 7 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 65.20675921440125s
+
+Currently on: 2021-05-07
+INFO:pmaw.PushshiftAPIBase:2878 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 97.44% - Requests: 39 - Batches: 4 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 46.775115728378296s
+
+Currently on: 2021-05-08
+INFO:pmaw.PushshiftAPIBase:2644 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 94.29% - Requests: 35 - Batches: 4 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 35.09440755844116s
+
+Currently on: 2021-05-09
+INFO:pmaw.PushshiftAPIBase:4193 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 94.83% - Requests: 58 - Batches: 7 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 62.75253987312317s
+
+Currently on: 2021-05-10
+INFO:pmaw.PushshiftAPIBase:3778 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 90.00% - Requests: 50 - Batches: 7 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 46.811084270477295s
+
+Currently on: 2021-05-11
+INFO:pmaw.PushshiftAPIBase:3452 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 91.67% - Requests: 48 - Batches: 6 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 56.37902045249939s
+
+Currently on: 2021-05-12
+INFO:pmaw.PushshiftAPIBase:2712 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 88.57% - Requests: 35 - Batches: 4 - Items Remaining: 0
+Time taken: 43.87983727455139s
+
+Currently on: 2021-05-13
+INFO:pmaw.PushshiftAPIBase:3066 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 76.92% - Requests: 52 - Batches: 6 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 52.91187596321106s
+
+Currently on: 2021-05-14
+INFO:pmaw.PushshiftAPIBase:3294 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 72.73% - Requests: 55 - Batches: 7 - Items Remaining: 0
+Time taken: 43.418129444122314s
+
+Currently on: 2021-05-15
+INFO:pmaw.PushshiftAPIBase:3712 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 75.00% - Requests: 60 - Batches: 8 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 79.47204637527466s
+
+Currently on: 2021-05-16
+INFO:pmaw.PushshiftAPIBase:4778 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 79.17% - Requests: 72 - Batches: 8 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 80.17721700668335s
+
+Currently on: 2021-05-17
+INFO:pmaw.PushshiftAPIBase:3872 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 79.37% - Requests: 63 - Batches: 7 - Items Remaining: 0
+Time taken: 60.462647438049316s
+
+Currently on: 2021-05-18
+INFO:pmaw.PushshiftAPIBase:2953 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 76.60% - Requests: 47 - Batches: 6 - Items Remaining: 0
+Time taken: 46.51501750946045s
+
+Currently on: 2021-05-19
+INFO:pmaw.PushshiftAPIBase:3204 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 40 - Batches: 5 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 48.5933632850647s
+
+Currently on: 2021-05-20
+INFO:pmaw.PushshiftAPIBase:3074 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 100.00% - Requests: 39 - Batches: 5 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 41.35321640968323s
+
+Currently on: 2021-05-21
+INFO:pmaw.PushshiftAPIBase:3131 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.00% - Requests: 65 - Batches: 10 - Items Remaining: 63
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 59.70% - Requests: 67 - Batches: 12 - Items Remaining: 0
+Time taken: 72.01307487487793s
+
+Currently on: 2021-05-22
+INFO:pmaw.PushshiftAPIBase:2359 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 82.86% - Requests: 35 - Batches: 5 - Items Remaining: 0
+Time taken: 45.115614891052246s
+
+Currently on: 2021-05-23
+INFO:pmaw.PushshiftAPIBase:2521 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 54.55% - Requests: 55 - Batches: 7 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 58.713563680648804s
+
+Currently on: 2021-05-24
+INFO:pmaw.PushshiftAPIBase:3117 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 64.52% - Requests: 62 - Batches: 7 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 68.2065269947052s
+
+Currently on: 2021-05-25
+INFO:pmaw.PushshiftAPIBase:2552 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 44.59% - Requests: 74 - Batches: 10 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 44.59% - Requests: 74 - Batches: 10 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 78.086421251297s
+
+Currently on: 2021-05-26
+INFO:pmaw.PushshiftAPIBase:3273 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 61.54% - Requests: 65 - Batches: 8 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 62.12% - Requests: 66 - Batches: 9 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 68.59974575042725s
+
+Currently on: 2021-05-27
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 1.050450086593628s
+
+Currently on: 2021-05-28
+INFO:pmaw.PushshiftAPIBase:3068 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 45.12% - Requests: 82 - Batches: 10 - Items Remaining: 184
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.13% - Requests: 87 - Batches: 12 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.19% - Requests: 89 - Batches: 14 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 88.96086645126343s
+
+Currently on: 2021-05-29
+INFO:pmaw.PushshiftAPIBase:2649 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 41.03% - Requests: 78 - Batches: 10 - Items Remaining: 55
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 42.50% - Requests: 80 - Batches: 11 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 40.70% - Requests: 86 - Batches: 17 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 103.40368485450745s
+
+Currently on: 2021-05-30
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.28139400482177734s
+
+Currently on: 2021-05-31
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.285930871963501s
+
+Currently on: 2021-06-01
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2214803695678711s
+
+Currently on: 2021-06-02
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2695188522338867s
+
+Currently on: 2021-06-03
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.24391436576843262s
+
+Currently on: 2021-06-04
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.23059415817260742s
+
+Currently on: 2021-06-05
+INFO:pmaw.PushshiftAPIBase:2599 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 42.03% - Requests: 69 - Batches: 10 - Items Remaining: 124
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 41.56% - Requests: 77 - Batches: 14 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 78.24880933761597s
+
+Currently on: 2021-06-06
+INFO:pmaw.PushshiftAPIBase:3501 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 67.19% - Requests: 64 - Batches: 10 - Items Remaining: 100
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 63.77% - Requests: 69 - Batches: 15 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 64.29% - Requests: 70 - Batches: 16 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 73.93823385238647s
+
+Currently on: 2021-06-07
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.7426538467407227s
+
+Currently on: 2021-06-08
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.24337267875671387s
+
+Currently on: 2021-06-09
+INFO:pmaw.PushshiftAPIBase:3571 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.59% - Requests: 85 - Batches: 10 - Items Remaining: 92
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 50.00% - Requests: 88 - Batches: 13 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 107.12894868850708s
+
+Currently on: 2021-06-10
+INFO:pmaw.PushshiftAPIBase:4795 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 44.00% - Requests: 100 - Batches: 10 - Items Remaining: 835
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.54% - Requests: 122 - Batches: 13 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 129.6058967113495s
+
+Currently on: 2021-06-11
+INFO:pmaw.PushshiftAPIBase:3933 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 41.30% - Requests: 92 - Batches: 10 - Items Remaining: 791
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 45.71% - Requests: 105 - Batches: 15 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 100.81335306167603s
+
+Currently on: 2021-06-12
+INFO:pmaw.PushshiftAPIBase:2688 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 45.71% - Requests: 70 - Batches: 10 - Items Remaining: 55
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 45.83% - Requests: 72 - Batches: 12 - Items Remaining: 0
+Time taken: 88.80002999305725s
+
+Currently on: 2021-06-13
+INFO:pmaw.PushshiftAPIBase:2993 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 47.44% - Requests: 78 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.44% - Requests: 78 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 79.23591995239258s
+
+Currently on: 2021-06-14
+INFO:pmaw.PushshiftAPIBase:2922 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 35.00% - Requests: 100 - Batches: 10 - Items Remaining: 213
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 37.04% - Requests: 108 - Batches: 14 - Items Remaining: 0
+Time taken: 113.7541732788086s
+
+Currently on: 2021-06-15
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.3884117603302002s
+
+Currently on: 2021-06-16
+INFO:pmaw.PushshiftAPIBase:3289 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.25% - Requests: 80 - Batches: 10 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 51.25% - Requests: 80 - Batches: 10 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 86.78309535980225s
+
+Currently on: 2021-06-17
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2099289894104004s
+
+Currently on: 2021-06-18
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2493443489074707s
+
+Currently on: 2021-06-19
+INFO:pmaw.PushshiftAPIBase:4097 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 41.00% - Requests: 100 - Batches: 10 - Items Remaining: 338
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 44.95% - Requests: 109 - Batches: 12 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 115.78702163696289s
+
+Currently on: 2021-06-20
+INFO:pmaw.PushshiftAPIBase:3258 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 38.37% - Requests: 86 - Batches: 10 - Items Remaining: 398
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 36.45% - Requests: 107 - Batches: 20 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 36.70% - Requests: 109 - Batches: 22 - Items Remaining: 0
+Time taken: 124.52834463119507s
+
+Currently on: 2021-06-21
+INFO:pmaw.PushshiftAPIBase:2820 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 41.98% - Requests: 81 - Batches: 10 - Items Remaining: 89
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 43.37% - Requests: 83 - Batches: 11 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 88.88346815109253s
+
+Currently on: 2021-06-22
+INFO:pmaw.PushshiftAPIBase:3365 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 74.07% - Requests: 54 - Batches: 9 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 56.83323931694031s
+
+Currently on: 2021-06-23
+INFO:pmaw.PushshiftAPIBase:3395 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.32% - Requests: 76 - Batches: 10 - Items Remaining: 85
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 49.38% - Requests: 81 - Batches: 15 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 48.24% - Requests: 85 - Batches: 19 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 91.25077748298645s
+
+Currently on: 2021-06-24
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 4.154558420181274s
+
+Currently on: 2021-06-25
+INFO:pmaw.PushshiftAPIBase:3641 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.89% - Requests: 90 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 48.89% - Requests: 90 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 106.92534732818604s
+
+Currently on: 2021-06-26
+INFO:pmaw.PushshiftAPIBase:3101 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 43.68% - Requests: 87 - Batches: 10 - Items Remaining: 109
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 43.01% - Requests: 93 - Batches: 13 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 96.57104063034058s
+
+Currently on: 2021-06-27
+INFO:pmaw.PushshiftAPIBase:3706 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.87% - Requests: 69 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 60.87% - Requests: 69 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 75.00803542137146s
+
+Currently on: 2021-06-28
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.25186753273010254s
+
+Currently on: 2021-06-29
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2574276924133301s
+
+Currently on: 2021-06-30
+INFO:pmaw.PushshiftAPIBase:4111 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 39.00% - Requests: 100 - Batches: 10 - Items Remaining: 695
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 43.86% - Requests: 114 - Batches: 14 - Items Remaining: 11
+INFO:pmaw.PushshiftAPIBase:11 result(s) not found in Pushshift
+Time taken: 115.3220591545105s
+
+Currently on: 2021-07-01
+INFO:pmaw.PushshiftAPIBase:4049 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.49% - Requests: 81 - Batches: 10 - Items Remaining: 34
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 60.98% - Requests: 82 - Batches: 11 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 60.71% - Requests: 84 - Batches: 13 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 89.28151941299438s
+
+Currently on: 2021-07-02
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.29421043395996094s
+
+Currently on: 2021-07-03
+INFO:pmaw.PushshiftAPIBase:2755 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 67.31% - Requests: 52 - Batches: 6 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 64.59346222877502s
+
+Currently on: 2021-07-04
+INFO:pmaw.PushshiftAPIBase:2930 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 42.67% - Requests: 75 - Batches: 10 - Items Remaining: 215
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 42.86% - Requests: 84 - Batches: 14 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 79.38361740112305s
+
+Currently on: 2021-07-05
+INFO:pmaw.PushshiftAPIBase:4077 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.68% - Requests: 95 - Batches: 10 - Items Remaining: 207
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 55.10% - Requests: 98 - Batches: 12 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 114.45151472091675s
+
+Currently on: 2021-07-06
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2232811450958252s
+
+Currently on: 2021-07-07
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2867906093597412s
+
+Currently on: 2021-07-08
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.29033589363098145s
+
+Currently on: 2021-07-09
+INFO:pmaw.PushshiftAPIBase:5447 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.00% - Requests: 100 - Batches: 10 - Items Remaining: 1182
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 53.60% - Requests: 125 - Batches: 14 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 139.82024884223938s
+
+Currently on: 2021-07-10
+INFO:pmaw.PushshiftAPIBase:3475 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.00% - Requests: 80 - Batches: 10 - Items Remaining: 236
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 50.00% - Requests: 88 - Batches: 15 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 49.45% - Requests: 91 - Batches: 18 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 81.32645535469055s
+
+Currently on: 2021-07-11
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.23654723167419434s
+
+Currently on: 2021-07-12
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.20886683464050293s
+
+Currently on: 2021-07-13
+INFO:pmaw.PushshiftAPIBase:3769 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 43.48% - Requests: 92 - Batches: 10 - Items Remaining: 351
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.47% - Requests: 99 - Batches: 12 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 116.19971680641174s
+
+Currently on: 2021-07-14
+INFO:pmaw.PushshiftAPIBase:3970 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 61.04% - Requests: 77 - Batches: 10 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 61.04% - Requests: 77 - Batches: 10 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 80.08376550674438s
+
+Currently on: 2021-07-15
+INFO:pmaw.PushshiftAPIBase:3977 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 62.50% - Requests: 72 - Batches: 10 - Items Remaining: 37
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 61.84% - Requests: 76 - Batches: 13 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 69.59835410118103s
+
+Currently on: 2021-07-16
+INFO:pmaw.PushshiftAPIBase:4339 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 61.90% - Requests: 84 - Batches: 10 - Items Remaining: 63
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 62.35% - Requests: 85 - Batches: 11 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 62.79% - Requests: 86 - Batches: 12 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 99.11963629722595s
+
+Currently on: 2021-07-17
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.24649930000305176s
+
+Currently on: 2021-07-18
+INFO:pmaw.PushshiftAPIBase:4281 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 59.34% - Requests: 91 - Batches: 10 - Items Remaining: 23
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 58.51% - Requests: 94 - Batches: 13 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 58.33% - Requests: 96 - Batches: 15 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 156.45635080337524s
+
+Currently on: 2021-07-19
+INFO:pmaw.PushshiftAPIBase:4136 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.44% - Requests: 90 - Batches: 10 - Items Remaining: 96
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 54.95% - Requests: 91 - Batches: 11 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 97.60959029197693s
+
+Currently on: 2021-07-20
+INFO:pmaw.PushshiftAPIBase:4130 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 70.83% - Requests: 72 - Batches: 10 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 70.83% - Requests: 72 - Batches: 10 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 65.00% - Requests: 80 - Batches: 18 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 83.40927529335022s
+
+Currently on: 2021-07-21
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.9541721343994141s
+
+Currently on: 2021-07-22
+INFO:pmaw.PushshiftAPIBase:4441 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 63.33% - Requests: 90 - Batches: 10 - Items Remaining: 10
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 63.74% - Requests: 91 - Batches: 11 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 62.77% - Requests: 94 - Batches: 14 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 104.96747350692749s
+
+Currently on: 2021-07-23
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 4.540664196014404s
+
+Currently on: 2021-07-24
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.27043962478637695s
+
+Currently on: 2021-07-25
+INFO:pmaw.PushshiftAPIBase:4257 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 45.26% - Requests: 95 - Batches: 10 - Items Remaining: 476
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 46.73% - Requests: 107 - Batches: 13 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 114.00095796585083s
+
+Currently on: 2021-07-26
+INFO:pmaw.PushshiftAPIBase:4789 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 47.00% - Requests: 100 - Batches: 10 - Items Remaining: 515
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 49.15% - Requests: 118 - Batches: 13 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 116.99764633178711s
+
+Currently on: 2021-07-27
+INFO:pmaw.PushshiftAPIBase:5182 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 70.24% - Requests: 84 - Batches: 10 - Items Remaining: 23
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 68.18% - Requests: 88 - Batches: 14 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 67.78% - Requests: 90 - Batches: 16 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 94.41146516799927s
+
+Currently on: 2021-07-28
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.3635721206665039s
+
+Currently on: 2021-07-29
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.25922560691833496s
+
+Currently on: 2021-07-30
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.23264217376708984s
+
+Currently on: 2021-07-31
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2423257827758789s
+
+Currently on: 2021-08-01
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2651374340057373s
+
+Currently on: 2021-08-02
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 2.103867769241333s
+
+Currently on: 2021-08-03
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.24289345741271973s
+
+Currently on: 2021-08-04
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.3544595241546631s
+
+Currently on: 2021-08-05
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.33197855949401855s
+
+Currently on: 2021-08-06
+INFO:pmaw.PushshiftAPIBase:3357 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 47.19% - Requests: 89 - Batches: 10 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.19% - Requests: 89 - Batches: 10 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 104.21808385848999s
+
+Currently on: 2021-08-07
+INFO:pmaw.PushshiftAPIBase:3016 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 62.90% - Requests: 62 - Batches: 7 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 69.44818329811096s
+
+Currently on: 2021-08-08
+INFO:pmaw.PushshiftAPIBase:3575 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.85% - Requests: 81 - Batches: 10 - Items Remaining: 69
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 47.37% - Requests: 95 - Batches: 20 - Items Remaining: 0
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.37% - Requests: 95 - Batches: 20 - Items Remaining: 0
+Time taken: 88.90445017814636s
+
+Currently on: 2021-08-09
+INFO:pmaw.PushshiftAPIBase:3736 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 58.75% - Requests: 80 - Batches: 9 - Items Remaining: 3
+INFO:pmaw.PushshiftAPIBase:3 result(s) not found in Pushshift
+Time taken: 90.47834873199463s
+
+Currently on: 2021-08-10
+INFO:pmaw.PushshiftAPIBase:3801 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 57.89% - Requests: 76 - Batches: 9 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 79.49483370780945s
+
+Currently on: 2021-08-11
+INFO:pmaw.PushshiftAPIBase:4263 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 67.50% - Requests: 80 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 67.50% - Requests: 80 - Batches: 10 - Items Remaining: 1
+INFO:pmaw.PushshiftAPIBase:1 result(s) not found in Pushshift
+Time taken: 85.75784206390381s
+
+Currently on: 2021-08-12
+INFO:pmaw.PushshiftAPIBase:4252 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.69% - Requests: 93 - Batches: 10 - Items Remaining: 121
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 53.68% - Requests: 95 - Batches: 11 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 164.91583061218262s
+
+Currently on: 2021-08-13
+INFO:pmaw.PushshiftAPIBase:4586 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 46.46% - Requests: 99 - Batches: 10 - Items Remaining: 457
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 45.83% - Requests: 120 - Batches: 14 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 125.85294246673584s
+
+Currently on: 2021-08-14
+INFO:pmaw.PushshiftAPIBase:5352 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 68.09% - Requests: 94 - Batches: 10 - Items Remaining: 88
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 68.04% - Requests: 97 - Batches: 12 - Items Remaining: 12
+INFO:pmaw.PushshiftAPIBase:12 result(s) not found in Pushshift
+Time taken: 112.605881690979s
+
+Currently on: 2021-08-15
+INFO:pmaw.PushshiftAPIBase:4694 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 58.06% - Requests: 93 - Batches: 10 - Items Remaining: 95
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 58.95% - Requests: 95 - Batches: 11 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 93.2578284740448s
+
+Currently on: 2021-08-16
+INFO:pmaw.PushshiftAPIBase:4230 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 67.07% - Requests: 82 - Batches: 10 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 67.07% - Requests: 82 - Batches: 10 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 97.63125014305115s
+
+Currently on: 2021-08-17
+INFO:pmaw.PushshiftAPIBase:3863 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.82% - Requests: 88 - Batches: 10 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 56.82% - Requests: 88 - Batches: 10 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 57.30% - Requests: 89 - Batches: 11 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 84.97996950149536s
+
+Currently on: 2021-08-18
+INFO:pmaw.PushshiftAPIBase:4998 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 64.21% - Requests: 95 - Batches: 10 - Items Remaining: 88
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 64.58% - Requests: 96 - Batches: 11 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 108.67994976043701s
+
+Currently on: 2021-08-19
+INFO:pmaw.PushshiftAPIBase:6636 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 58.00% - Requests: 100 - Batches: 10 - Items Remaining: 894
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 64.84% - Requests: 128 - Batches: 13 - Items Remaining: 9
+INFO:pmaw.PushshiftAPIBase:9 result(s) not found in Pushshift
+Time taken: 136.49991178512573s
+
+Currently on: 2021-08-20
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2796444892883301s
+
+Currently on: 2021-08-21
+INFO:pmaw.PushshiftAPIBase:5557 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 65.00% - Requests: 100 - Batches: 10 - Items Remaining: 49
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 64.86% - Requests: 111 - Batches: 12 - Items Remaining: 19
+INFO:pmaw.PushshiftAPIBase:19 result(s) not found in Pushshift
+Time taken: 115.49085187911987s
+
+Currently on: 2021-08-22
+INFO:pmaw.PushshiftAPIBase:4958 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.00% - Requests: 100 - Batches: 10 - Items Remaining: 883
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 49.59% - Requests: 123 - Batches: 15 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 126.07297658920288s
+
+Currently on: 2021-08-23
+INFO:pmaw.PushshiftAPIBase:4427 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.22% - Requests: 90 - Batches: 10 - Items Remaining: 498
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 55.10% - Requests: 98 - Batches: 12 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 105.2775354385376s
+
+Currently on: 2021-08-24
+INFO:pmaw.PushshiftAPIBase:6336 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 37.00% - Requests: 100 - Batches: 10 - Items Remaining: 2738
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 39.68% - Requests: 189 - Batches: 20 - Items Remaining: 128
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 39.90% - Requests: 193 - Batches: 22 - Items Remaining: 9
+INFO:pmaw.PushshiftAPIBase:9 result(s) not found in Pushshift
+Time taken: 254.64040637016296s
+
+Currently on: 2021-08-25
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2591238021850586s
+
+Currently on: 2021-08-26
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2888462543487549s
+
+Currently on: 2021-08-27
+INFO:pmaw.PushshiftAPIBase:5680 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.00% - Requests: 100 - Batches: 10 - Items Remaining: 721
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 52.17% - Requests: 138 - Batches: 15 - Items Remaining: 2
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+Time taken: 140.53693914413452s
+
+Currently on: 2021-08-28
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.5511751174926758s
+
+Currently on: 2021-08-29
+INFO:pmaw.PushshiftAPIBase:5925 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 65.00% - Requests: 100 - Batches: 10 - Items Remaining: 449
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 60.83% - Requests: 120 - Batches: 14 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 61.16% - Requests: 121 - Batches: 15 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 128.77518510818481s
+
+Currently on: 2021-08-30
+INFO:pmaw.PushshiftAPIBase:5882 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.00% - Requests: 100 - Batches: 10 - Items Remaining: 818
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 57.48% - Requests: 127 - Batches: 14 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 57.36% - Requests: 129 - Batches: 16 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 154.47730326652527s
+
+Currently on: 2021-08-31
+INFO:pmaw.PushshiftAPIBase:6430 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.00% - Requests: 100 - Batches: 10 - Items Remaining: 1863
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 55.15% - Requests: 136 - Batches: 15 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 148.33917832374573s
+
+Currently on: 2021-09-01
+INFO:pmaw.PushshiftAPIBase:10699 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 63.00% - Requests: 100 - Batches: 10 - Items Remaining: 4923
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 59.80% - Requests: 199 - Batches: 20 - Items Remaining: 498
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 59.26% - Requests: 216 - Batches: 23 - Items Remaining: 17
+INFO:pmaw.PushshiftAPIBase:17 result(s) not found in Pushshift
+Time taken: 215.05070996284485s
+
+Currently on: 2021-09-02
+INFO:pmaw.PushshiftAPIBase:7941 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 44.00% - Requests: 100 - Batches: 10 - Items Remaining: 3754
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 46.50% - Requests: 200 - Batches: 20 - Items Remaining: 98
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 43.17% - Requests: 227 - Batches: 29 - Items Remaining: 9
+INFO:pmaw.PushshiftAPIBase:2 result(s) not found in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 42.98% - Requests: 228 - Batches: 30 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 42.49% - Requests: 233 - Batches: 35 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 248.6360478401184s
+
+Currently on: 2021-09-03
+INFO:pmaw.PushshiftAPIBase:6020 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 42.00% - Requests: 100 - Batches: 10 - Items Remaining: 2039
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.17% - Requests: 159 - Batches: 17 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 178.30623173713684s
+
+Currently on: 2021-09-04
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.3819746971130371s
+
+Currently on: 2021-09-05
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.22916316986083984s
+
+Currently on: 2021-09-06
+INFO:pmaw.PushshiftAPIBase:6849 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.00% - Requests: 100 - Batches: 10 - Items Remaining: 2035
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 54.60% - Requests: 163 - Batches: 18 - Items Remaining: 6
+INFO:pmaw.PushshiftAPIBase:6 result(s) not found in Pushshift
+Time taken: 179.96003913879395s
+
+Currently on: 2021-09-07
+INFO:pmaw.PushshiftAPIBase:5910 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 65.00% - Requests: 100 - Batches: 10 - Items Remaining: 275
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 65.77% - Requests: 111 - Batches: 13 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 117.714914560318s
+
+Currently on: 2021-09-08
+INFO:pmaw.PushshiftAPIBase:7124 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.00% - Requests: 100 - Batches: 10 - Items Remaining: 1829
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 49.71% - Requests: 171 - Batches: 20 - Items Remaining: 129
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 50.00% - Requests: 174 - Batches: 23 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 180.1341826915741s
+
+Currently on: 2021-09-09
+INFO:pmaw.PushshiftAPIBase:6733 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 46.00% - Requests: 100 - Batches: 10 - Items Remaining: 2174
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 47.95% - Requests: 171 - Batches: 20 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.95% - Requests: 171 - Batches: 20 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 180.5309944152832s
+
+Currently on: 2021-09-10
+INFO:pmaw.PushshiftAPIBase:6782 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.00% - Requests: 100 - Batches: 10 - Items Remaining: 1626
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 48.02% - Requests: 177 - Batches: 19 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.31% - Requests: 178 - Batches: 20 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 48.31% - Requests: 178 - Batches: 20 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 185.80304884910583s
+
+Currently on: 2021-09-11
+INFO:pmaw.PushshiftAPIBase:5813 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 43.00% - Requests: 100 - Batches: 10 - Items Remaining: 1921
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 42.69% - Requests: 171 - Batches: 20 - Items Remaining: 45
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 42.77% - Requests: 173 - Batches: 22 - Items Remaining: 5
+INFO:pmaw.PushshiftAPIBase:5 result(s) not found in Pushshift
+Time taken: 186.88015341758728s
+
+Currently on: 2021-09-12
+INFO:pmaw.PushshiftAPIBase:7863 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 40.00% - Requests: 100 - Batches: 10 - Items Remaining: 3889
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 47.40% - Requests: 192 - Batches: 20 - Items Remaining: 216
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 46.34% - Requests: 205 - Batches: 27 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 230.179381608963s
+
+Currently on: 2021-09-13
+INFO:pmaw.PushshiftAPIBase:8286 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.00% - Requests: 100 - Batches: 10 - Items Remaining: 3681
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.24% - Requests: 199 - Batches: 20 - Items Remaining: 319
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 49.29% - Requests: 211 - Batches: 23 - Items Remaining: 9
+INFO:pmaw.PushshiftAPIBase:9 result(s) not found in Pushshift
+Time taken: 210.3822615146637s
+
+Currently on: 2021-09-14
+INFO:pmaw.PushshiftAPIBase:9988 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.00% - Requests: 100 - Batches: 10 - Items Remaining: 4331
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.00% - Requests: 200 - Batches: 20 - Items Remaining: 645
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 49.40% - Requests: 249 - Batches: 26 - Items Remaining: 24
+INFO:pmaw.PushshiftAPIBase:24 result(s) not found in Pushshift
+Time taken: 288.804235458374s
+
+Currently on: 2021-09-15
+INFO:pmaw.PushshiftAPIBase:8497 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 47.00% - Requests: 100 - Batches: 10 - Items Remaining: 3939
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 44.72% - Requests: 199 - Batches: 20 - Items Remaining: 580
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 46.67% - Requests: 210 - Batches: 22 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 211.8436620235443s
+
+Currently on: 2021-09-16
+INFO:pmaw.PushshiftAPIBase:8939 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 65.00% - Requests: 100 - Batches: 10 - Items Remaining: 2763
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.00% - Requests: 200 - Batches: 20 - Items Remaining: 415
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.26% - Requests: 230 - Batches: 30 - Items Remaining: 70
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.68% - Requests: 237 - Batches: 35 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 47.70% - Requests: 239 - Batches: 37 - Items Remaining: 8
+INFO:pmaw.PushshiftAPIBase:8 result(s) not found in Pushshift
+Time taken: 248.04811573028564s
+
+Currently on: 2021-09-17
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.26633691787719727s
+
+Currently on: 2021-09-18
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2863190174102783s
+
+Currently on: 2021-09-19
+INFO:pmaw.PushshiftAPIBase:9132 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 37.00% - Requests: 100 - Batches: 10 - Items Remaining: 5432
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 36.50% - Requests: 200 - Batches: 20 - Items Remaining: 2278
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 33.33% - Requests: 300 - Batches: 30 - Items Remaining: 383
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 34.37% - Requests: 323 - Batches: 34 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 34.57% - Requests: 324 - Batches: 35 - Items Remaining: 4
+INFO:pmaw.PushshiftAPIBase:4 result(s) not found in Pushshift
+Time taken: 356.32831168174744s
+
+Currently on: 2021-09-20
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 3.640231132507324s
+
+Currently on: 2021-09-21
+INFO:pmaw.PushshiftAPIBase:10826 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 34.00% - Requests: 100 - Batches: 10 - Items Remaining: 7435
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 41.00% - Requests: 200 - Batches: 20 - Items Remaining: 2952
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 40.33% - Requests: 300 - Batches: 30 - Items Remaining: 325
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 41.69% - Requests: 307 - Batches: 31 - Items Remaining: 16
+INFO:pmaw.PushshiftAPIBase:16 result(s) not found in Pushshift
+Time taken: 317.7445721626282s
+
+Currently on: 2021-09-22
+INFO:pmaw.PushshiftAPIBase:9020 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 45.00% - Requests: 100 - Batches: 10 - Items Remaining: 4539
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 40.50% - Requests: 200 - Batches: 20 - Items Remaining: 1531
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 40.07% - Requests: 272 - Batches: 28 - Items Remaining: 20
+INFO:pmaw.PushshiftAPIBase:20 result(s) not found in Pushshift
+Time taken: 301.74415707588196s
+
+Currently on: 2021-09-23
+INFO:pmaw.PushshiftAPIBase:8028 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.00% - Requests: 100 - Batches: 10 - Items Remaining: 3046
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.32% - Requests: 189 - Batches: 20 - Items Remaining: 82
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 50.51% - Requests: 196 - Batches: 25 - Items Remaining: 7
+INFO:pmaw.PushshiftAPIBase:7 result(s) not found in Pushshift
+Time taken: 221.65503120422363s
+
+Currently on: 2021-09-24
+INFO:pmaw.PushshiftAPIBase:7742 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.00% - Requests: 100 - Batches: 10 - Items Remaining: 2621
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 55.69% - Requests: 167 - Batches: 19 - Items Remaining: 31
+INFO:pmaw.PushshiftAPIBase:31 result(s) not found in Pushshift
+Time taken: 170.88556456565857s
+
+Currently on: 2021-09-25
+INFO:pmaw.PushshiftAPIBase:6887 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.00% - Requests: 100 - Batches: 10 - Items Remaining: 1960
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.30% - Requests: 167 - Batches: 20 - Items Remaining: 32
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 50.00% - Requests: 172 - Batches: 25 - Items Remaining: 10
+INFO:pmaw.PushshiftAPIBase:10 result(s) not found in Pushshift
+Time taken: 192.69794535636902s
+
+Currently on: 2021-09-26
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2201838493347168s
+
+Currently on: 2021-09-27
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2504918575286865s
+
+Currently on: 2021-09-28
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2775297164916992s
+
+Currently on: 2021-09-29
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.32143449783325195s
+
+Currently on: 2021-09-30
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.28603148460388184s
+
+Currently on: 2021-10-01
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.30732131004333496s
+
+Currently on: 2021-10-02
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.310255765914917s
+
+Currently on: 2021-10-03
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2749512195587158s
+
+Currently on: 2021-10-04
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.25409698486328125s
+
+Currently on: 2021-10-05
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.32327747344970703s
+
+Currently on: 2021-10-06
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.3710978031158447s
+
+Currently on: 2021-10-07
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.7008788585662842s
+
+Currently on: 2021-10-08
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.5784790515899658s
+
+Currently on: 2021-10-09
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.9314570426940918s
+
+Currently on: 2021-10-10
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.9645638465881348s
+
+Currently on: 2021-10-11
+INFO:pmaw.PushshiftAPIBase:11605 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 61.00% - Requests: 100 - Batches: 10 - Items Remaining: 5579
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.00% - Requests: 200 - Batches: 20 - Items Remaining: 1415
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 56.73% - Requests: 245 - Batches: 26 - Items Remaining: 21
+INFO:pmaw.PushshiftAPIBase:11 result(s) not found in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 56.45% - Requests: 248 - Batches: 29 - Items Remaining: 10
+INFO:pmaw.PushshiftAPIBase:10 result(s) not found in Pushshift
+Time taken: 268.65373158454895s
+
+Currently on: 2021-10-12
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.23302960395812988s
+
+Currently on: 2021-10-13
+INFO:pmaw.PushshiftAPIBase:18857 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.00% - Requests: 100 - Batches: 10 - Items Remaining: 13900
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.50% - Requests: 200 - Batches: 20 - Items Remaining: 8225
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.33% - Requests: 300 - Batches: 30 - Items Remaining: 3815
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.00% - Requests: 400 - Batches: 40 - Items Remaining: 410
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 54.77% - Requests: 409 - Batches: 43 - Items Remaining: 38
+INFO:pmaw.PushshiftAPIBase:9 result(s) not found in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 54.61% - Requests: 412 - Batches: 46 - Items Remaining: 29
+INFO:pmaw.PushshiftAPIBase:29 result(s) not found in Pushshift
+Time taken: 437.0384244918823s
+
+Currently on: 2021-10-14
+INFO:pmaw.PushshiftAPIBase:25501 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 100 - Batches: 10 - Items Remaining: 16610
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.50% - Requests: 200 - Batches: 20 - Items Remaining: 8920
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.33% - Requests: 300 - Batches: 30 - Items Remaining: 1557
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 90.50% - Requests: 337 - Batches: 34 - Items Remaining: 115
+INFO:pmaw.PushshiftAPIBase:115 result(s) not found in Pushshift
+Time taken: 397.18894386291504s
+
+Currently on: 2021-10-15
+INFO:pmaw.PushshiftAPIBase:24819 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 100 - Batches: 10 - Items Remaining: 16231
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 200 - Batches: 20 - Items Remaining: 7773
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.67% - Requests: 300 - Batches: 30 - Items Remaining: 1211
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 87.35% - Requests: 340 - Batches: 34 - Items Remaining: 76
+INFO:pmaw.PushshiftAPIBase:76 result(s) not found in Pushshift
+Time taken: 366.4648745059967s
+
+Currently on: 2021-10-16
+INFO:pmaw.PushshiftAPIBase:33954 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.00% - Requests: 100 - Batches: 10 - Items Remaining: 24863
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.00% - Requests: 200 - Batches: 20 - Items Remaining: 16654
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 300 - Batches: 30 - Items Remaining: 8300
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.50% - Requests: 400 - Batches: 40 - Items Remaining: 1941
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.75% - Requests: 468 - Batches: 48 - Items Remaining: 135
+INFO:pmaw.PushshiftAPIBase:135 result(s) not found in Pushshift
+Time taken: 538.4735970497131s
+
+Currently on: 2021-10-17
+INFO:pmaw.PushshiftAPIBase:21484 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 100 - Batches: 10 - Items Remaining: 12889
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.50% - Requests: 200 - Batches: 20 - Items Remaining: 5419
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.00% - Requests: 300 - Batches: 30 - Items Remaining: 522
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 80.71% - Requests: 311 - Batches: 32 - Items Remaining: 47
+INFO:pmaw.PushshiftAPIBase:47 result(s) not found in Pushshift
+Time taken: 351.58533358573914s
+
+Currently on: 2021-10-18
+INFO:pmaw.PushshiftAPIBase:26968 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 70.00% - Requests: 100 - Batches: 10 - Items Remaining: 19971
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.50% - Requests: 200 - Batches: 20 - Items Remaining: 11669
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.00% - Requests: 300 - Batches: 30 - Items Remaining: 4344
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.92% - Requests: 393 - Batches: 40 - Items Remaining: 81
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 80.92% - Requests: 393 - Batches: 40 - Items Remaining: 81
+INFO:pmaw.PushshiftAPIBase:81 result(s) not found in Pushshift
+Time taken: 434.1712532043457s
+
+Currently on: 2021-10-19
+INFO:pmaw.PushshiftAPIBase:38709 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.00% - Requests: 100 - Batches: 10 - Items Remaining: 30612
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.00% - Requests: 200 - Batches: 20 - Items Remaining: 23404
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.00% - Requests: 300 - Batches: 30 - Items Remaining: 15115
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.75% - Requests: 400 - Batches: 40 - Items Remaining: 6689
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 500 - Batches: 50 - Items Remaining: 1281
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.48% - Requests: 540 - Batches: 54 - Items Remaining: 197
+INFO:pmaw.PushshiftAPIBase:197 result(s) not found in Pushshift
+Time taken: 575.3598442077637s
+
+Currently on: 2021-10-20
+INFO:pmaw.PushshiftAPIBase:38990 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 100 - Batches: 10 - Items Remaining: 29794
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 200 - Batches: 20 - Items Remaining: 20599
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 300 - Batches: 30 - Items Remaining: 11981
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.75% - Requests: 400 - Batches: 40 - Items Remaining: 5596
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.20% - Requests: 500 - Batches: 50 - Items Remaining: 329
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 88.37% - Requests: 516 - Batches: 52 - Items Remaining: 164
+INFO:pmaw.PushshiftAPIBase:164 result(s) not found in Pushshift
+Time taken: 569.0178525447845s
+
+Currently on: 2021-10-21
+INFO:pmaw.PushshiftAPIBase:39659 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.00% - Requests: 100 - Batches: 10 - Items Remaining: 31363
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.00% - Requests: 200 - Batches: 20 - Items Remaining: 22858
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.33% - Requests: 300 - Batches: 30 - Items Remaining: 14887
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 400 - Batches: 40 - Items Remaining: 7204
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.20% - Requests: 500 - Batches: 50 - Items Remaining: 1390
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 88.87% - Requests: 530 - Batches: 54 - Items Remaining: 185
+INFO:pmaw.PushshiftAPIBase:185 result(s) not found in Pushshift
+Time taken: 781.8225834369659s
+
+Currently on: 2021-10-22
+INFO:pmaw.PushshiftAPIBase:51022 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 96.00% - Requests: 100 - Batches: 10 - Items Remaining: 41434
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 96.00% - Requests: 200 - Batches: 20 - Items Remaining: 32165
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 300 - Batches: 30 - Items Remaining: 23768
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.25% - Requests: 400 - Batches: 40 - Items Remaining: 15775
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.40% - Requests: 500 - Batches: 50 - Items Remaining: 7702
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.17% - Requests: 600 - Batches: 60 - Items Remaining: 3053
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.43% - Requests: 681 - Batches: 69 - Items Remaining: 305
+INFO:pmaw.PushshiftAPIBase:305 result(s) not found in Pushshift
+Time taken: 816.4302744865417s
+
+Currently on: 2021-10-23
+INFO:pmaw.PushshiftAPIBase:40917 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 100 - Batches: 10 - Items Remaining: 31720
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 200 - Batches: 20 - Items Remaining: 23126
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 300 - Batches: 30 - Items Remaining: 14446
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.50% - Requests: 400 - Batches: 40 - Items Remaining: 6821
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.20% - Requests: 500 - Batches: 50 - Items Remaining: 1216
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.22% - Requests: 538 - Batches: 54 - Items Remaining: 169
+INFO:pmaw.PushshiftAPIBase:169 result(s) not found in Pushshift
+Time taken: 640.5743873119354s
+
+Currently on: 2021-10-24
+INFO:pmaw.PushshiftAPIBase:47502 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.00% - Requests: 100 - Batches: 10 - Items Remaining: 39308
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.50% - Requests: 200 - Batches: 20 - Items Remaining: 32180
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.00% - Requests: 300 - Batches: 30 - Items Remaining: 23688
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.00% - Requests: 400 - Batches: 40 - Items Remaining: 16577
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.00% - Requests: 500 - Batches: 50 - Items Remaining: 9078
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.50% - Requests: 600 - Batches: 60 - Items Remaining: 3140
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 84.80% - Requests: 684 - Batches: 69 - Items Remaining: 272
+INFO:pmaw.PushshiftAPIBase:272 result(s) not found in Pushshift
+Time taken: 795.3184368610382s
+
+Currently on: 2021-10-25
+INFO:pmaw.PushshiftAPIBase:59916 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.00% - Requests: 100 - Batches: 10 - Items Remaining: 52018
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 200 - Batches: 20 - Items Remaining: 43124
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 300 - Batches: 30 - Items Remaining: 34295
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.75% - Requests: 400 - Batches: 40 - Items Remaining: 26325
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.80% - Requests: 500 - Batches: 50 - Items Remaining: 18522
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.83% - Requests: 600 - Batches: 60 - Items Remaining: 11019
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.57% - Requests: 700 - Batches: 70 - Items Remaining: 6670
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.75% - Requests: 800 - Batches: 80 - Items Remaining: 2196
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 84.83% - Requests: 857 - Batches: 86 - Items Remaining: 414
+INFO:pmaw.PushshiftAPIBase:414 result(s) not found in Pushshift
+Time taken: 1072.6837854385376s
+
+Currently on: 2021-10-26
+INFO:pmaw.PushshiftAPIBase:70155 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 95.00% - Requests: 100 - Batches: 10 - Items Remaining: 60657
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 200 - Batches: 20 - Items Remaining: 51759
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.67% - Requests: 300 - Batches: 30 - Items Remaining: 42671
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.25% - Requests: 400 - Batches: 40 - Items Remaining: 33692
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.80% - Requests: 500 - Batches: 50 - Items Remaining: 25240
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.50% - Requests: 600 - Batches: 60 - Items Remaining: 16817
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.71% - Requests: 700 - Batches: 70 - Items Remaining: 12399
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.50% - Requests: 800 - Batches: 80 - Items Remaining: 4740
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.94% - Requests: 893 - Batches: 90 - Items Remaining: 501
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 91.94% - Requests: 893 - Batches: 90 - Items Remaining: 501
+INFO:pmaw.PushshiftAPIBase:501 result(s) not found in Pushshift
+Time taken: 1063.911633014679s
+
+Currently on: 2021-10-27
+INFO:pmaw.PushshiftAPIBase:55671 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.00% - Requests: 100 - Batches: 10 - Items Remaining: 47874
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.50% - Requests: 200 - Batches: 20 - Items Remaining: 38578
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 300 - Batches: 30 - Items Remaining: 29296
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.25% - Requests: 400 - Batches: 40 - Items Remaining: 20213
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.20% - Requests: 500 - Batches: 50 - Items Remaining: 11531
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 600 - Batches: 60 - Items Remaining: 5713
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.29% - Requests: 700 - Batches: 70 - Items Remaining: 2031
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.80% - Requests: 735 - Batches: 74 - Items Remaining: 312
+INFO:pmaw.PushshiftAPIBase:312 result(s) not found in Pushshift
+Time taken: 872.0279333591461s
+
+Currently on: 2021-10-28
+INFO:pmaw.PushshiftAPIBase:47103 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.00% - Requests: 100 - Batches: 10 - Items Remaining: 37709
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.50% - Requests: 200 - Batches: 20 - Items Remaining: 28269
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 300 - Batches: 30 - Items Remaining: 20324
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 400 - Batches: 40 - Items Remaining: 12379
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.60% - Requests: 500 - Batches: 50 - Items Remaining: 5428
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.17% - Requests: 600 - Batches: 60 - Items Remaining: 1237
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.94% - Requests: 643 - Batches: 65 - Items Remaining: 253
+INFO:pmaw.PushshiftAPIBase:253 result(s) not found in Pushshift
+Time taken: 746.4197793006897s
+
+Currently on: 2021-10-29
+INFO:pmaw.PushshiftAPIBase:42361 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 100 - Batches: 10 - Items Remaining: 33663
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.00% - Requests: 200 - Batches: 20 - Items Remaining: 25033
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 300 - Batches: 30 - Items Remaining: 17782
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.25% - Requests: 400 - Batches: 40 - Items Remaining: 11367
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.80% - Requests: 500 - Batches: 50 - Items Remaining: 4143
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.47% - Requests: 599 - Batches: 60 - Items Remaining: 181
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 82.50% - Requests: 600 - Batches: 61 - Items Remaining: 175
+INFO:pmaw.PushshiftAPIBase:175 result(s) not found in Pushshift
+Time taken: 834.6883406639099s
+
+Currently on: 2021-10-30
+INFO:pmaw.PushshiftAPIBase:39159 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 100 - Batches: 10 - Items Remaining: 30168
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.00% - Requests: 200 - Batches: 20 - Items Remaining: 21122
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.67% - Requests: 300 - Batches: 30 - Items Remaining: 12102
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.25% - Requests: 400 - Batches: 40 - Items Remaining: 5279
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.60% - Requests: 500 - Batches: 50 - Items Remaining: 344
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.28% - Requests: 513 - Batches: 52 - Items Remaining: 167
+INFO:pmaw.PushshiftAPIBase:167 result(s) not found in Pushshift
+Time taken: 696.905748128891s
+
+Currently on: 2021-10-31
+INFO:pmaw.PushshiftAPIBase:37367 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.00% - Requests: 100 - Batches: 10 - Items Remaining: 28568
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 200 - Batches: 20 - Items Remaining: 20172
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 300 - Batches: 30 - Items Remaining: 11902
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.50% - Requests: 400 - Batches: 40 - Items Remaining: 5343
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.20% - Requests: 500 - Batches: 50 - Items Remaining: 522
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 85.55% - Requests: 512 - Batches: 52 - Items Remaining: 134
+INFO:pmaw.PushshiftAPIBase:134 result(s) not found in Pushshift
+Time taken: 677.1322543621063s
+
+Currently on: 2021-11-01
+INFO:pmaw.PushshiftAPIBase:51564 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.00% - Requests: 100 - Batches: 10 - Items Remaining: 43666
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 200 - Batches: 20 - Items Remaining: 34174
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 300 - Batches: 30 - Items Remaining: 26779
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.75% - Requests: 400 - Batches: 40 - Items Remaining: 19910
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.60% - Requests: 500 - Batches: 50 - Items Remaining: 11626
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.50% - Requests: 600 - Batches: 60 - Items Remaining: 5297
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.86% - Requests: 700 - Batches: 70 - Items Remaining: 599
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 85.15% - Requests: 714 - Batches: 73 - Items Remaining: 331
+INFO:pmaw.PushshiftAPIBase:331 result(s) not found in Pushshift
+Time taken: 842.4713349342346s
+
+Currently on: 2021-11-02
+INFO:pmaw.PushshiftAPIBase:52858 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.00% - Requests: 100 - Batches: 10 - Items Remaining: 43459
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 200 - Batches: 20 - Items Remaining: 34461
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.67% - Requests: 300 - Batches: 30 - Items Remaining: 24903
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.50% - Requests: 400 - Batches: 40 - Items Remaining: 16654
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.60% - Requests: 500 - Batches: 50 - Items Remaining: 7766
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.33% - Requests: 600 - Batches: 60 - Items Remaining: 3382
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.63% - Requests: 689 - Batches: 70 - Items Remaining: 339
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 94.63% - Requests: 689 - Batches: 70 - Items Remaining: 339
+INFO:pmaw.PushshiftAPIBase:339 result(s) not found in Pushshift
+Time taken: 707.5928258895874s
+
+Currently on: 2021-11-03
+INFO:pmaw.PushshiftAPIBase:48492 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 95.00% - Requests: 100 - Batches: 10 - Items Remaining: 38995
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 95.50% - Requests: 200 - Batches: 20 - Items Remaining: 29397
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 95.67% - Requests: 300 - Batches: 30 - Items Remaining: 20420
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.25% - Requests: 400 - Batches: 40 - Items Remaining: 12379
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.60% - Requests: 500 - Batches: 50 - Items Remaining: 4692
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.00% - Requests: 600 - Batches: 60 - Items Remaining: 1142
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 94.22% - Requests: 623 - Batches: 63 - Items Remaining: 250
+INFO:pmaw.PushshiftAPIBase:250 result(s) not found in Pushshift
+Time taken: 635.279111623764s
+
+Currently on: 2021-11-04
+INFO:pmaw.PushshiftAPIBase:42636 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.00% - Requests: 100 - Batches: 10 - Items Remaining: 33345
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.50% - Requests: 200 - Batches: 20 - Items Remaining: 23962
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 95.00% - Requests: 300 - Batches: 30 - Items Remaining: 14374
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.75% - Requests: 400 - Batches: 40 - Items Remaining: 6832
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.00% - Requests: 500 - Batches: 50 - Items Remaining: 1381
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 93.66% - Requests: 536 - Batches: 54 - Items Remaining: 228
+INFO:pmaw.PushshiftAPIBase:228 result(s) not found in Pushshift
+Time taken: 547.846631526947s
+
+Currently on: 2021-11-05
+INFO:pmaw.PushshiftAPIBase:40185 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 100 - Batches: 10 - Items Remaining: 30988
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.50% - Requests: 200 - Batches: 20 - Items Remaining: 21708
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.00% - Requests: 300 - Batches: 30 - Items Remaining: 13696
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.75% - Requests: 400 - Batches: 40 - Items Remaining: 7335
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.80% - Requests: 500 - Batches: 50 - Items Remaining: 1020
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.02% - Requests: 528 - Batches: 53 - Items Remaining: 181
+INFO:pmaw.PushshiftAPIBase:181 result(s) not found in Pushshift
+Time taken: 553.2584779262543s
+
+Currently on: 2021-11-06
+INFO:pmaw.PushshiftAPIBase:33811 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.00% - Requests: 100 - Batches: 10 - Items Remaining: 25711
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.00% - Requests: 200 - Batches: 20 - Items Remaining: 17226
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 300 - Batches: 30 - Items Remaining: 9630
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.50% - Requests: 400 - Batches: 40 - Items Remaining: 3077
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 85.81% - Requests: 472 - Batches: 48 - Items Remaining: 120
+INFO:pmaw.PushshiftAPIBase:120 result(s) not found in Pushshift
+Time taken: 485.0859377384186s
+
+Currently on: 2021-11-07
+INFO:pmaw.PushshiftAPIBase:40909 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.00% - Requests: 100 - Batches: 10 - Items Remaining: 32710
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 200 - Batches: 20 - Items Remaining: 23114
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 300 - Batches: 30 - Items Remaining: 15795
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.50% - Requests: 400 - Batches: 40 - Items Remaining: 8831
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.00% - Requests: 500 - Batches: 50 - Items Remaining: 2367
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 87.07% - Requests: 557 - Batches: 56 - Items Remaining: 191
+INFO:pmaw.PushshiftAPIBase:191 result(s) not found in Pushshift
+Time taken: 595.6243815422058s
+
+Currently on: 2021-11-08
+INFO:pmaw.PushshiftAPIBase:43516 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 100 - Batches: 10 - Items Remaining: 34817
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.50% - Requests: 200 - Batches: 20 - Items Remaining: 25218
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.33% - Requests: 300 - Batches: 30 - Items Remaining: 16342
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.75% - Requests: 400 - Batches: 40 - Items Remaining: 8330
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.20% - Requests: 500 - Batches: 50 - Items Remaining: 1571
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 92.18% - Requests: 550 - Batches: 55 - Items Remaining: 206
+INFO:pmaw.PushshiftAPIBase:206 result(s) not found in Pushshift
+Time taken: 563.9107925891876s
+
+Currently on: 2021-11-09
+INFO:pmaw.PushshiftAPIBase:41362 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 96.00% - Requests: 100 - Batches: 10 - Items Remaining: 31765
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.50% - Requests: 200 - Batches: 20 - Items Remaining: 23732
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.33% - Requests: 300 - Batches: 30 - Items Remaining: 15518
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.50% - Requests: 400 - Batches: 40 - Items Remaining: 9641
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.60% - Requests: 500 - Batches: 50 - Items Remaining: 3244
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.14% - Requests: 599 - Batches: 60 - Items Remaining: 179
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 81.14% - Requests: 599 - Batches: 60 - Items Remaining: 179
+INFO:pmaw.PushshiftAPIBase:179 result(s) not found in Pushshift
+Time taken: 630.369521856308s
+
+Currently on: 2021-11-10
+INFO:pmaw.PushshiftAPIBase:43205 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.00% - Requests: 100 - Batches: 10 - Items Remaining: 35406
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.50% - Requests: 200 - Batches: 20 - Items Remaining: 27308
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.00% - Requests: 300 - Batches: 30 - Items Remaining: 18686
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 400 - Batches: 40 - Items Remaining: 11390
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.40% - Requests: 500 - Batches: 50 - Items Remaining: 4030
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 600 - Batches: 60 - Items Remaining: 593
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 84.36% - Requests: 614 - Batches: 62 - Items Remaining: 168
+INFO:pmaw.PushshiftAPIBase:168 result(s) not found in Pushshift
+Time taken: 648.7950961589813s
+
+Currently on: 2021-11-11
+INFO:pmaw.PushshiftAPIBase:49612 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.00% - Requests: 100 - Batches: 10 - Items Remaining: 41114
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 200 - Batches: 20 - Items Remaining: 32420
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 300 - Batches: 30 - Items Remaining: 24561
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.25% - Requests: 400 - Batches: 40 - Items Remaining: 17104
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.20% - Requests: 500 - Batches: 50 - Items Remaining: 9882
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.83% - Requests: 600 - Batches: 60 - Items Remaining: 4796
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.29% - Requests: 700 - Batches: 70 - Items Remaining: 2044
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 81.40% - Requests: 742 - Batches: 75 - Items Remaining: 275
+INFO:pmaw.PushshiftAPIBase:205 result(s) not found in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 81.21% - Requests: 745 - Batches: 78 - Items Remaining: 70
+INFO:pmaw.PushshiftAPIBase:70 result(s) not found in Pushshift
+Time taken: 792.8268098831177s
+
+Currently on: 2021-11-12
+INFO:pmaw.PushshiftAPIBase:51830 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 72.00% - Requests: 100 - Batches: 10 - Items Remaining: 44632
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 70.00% - Requests: 200 - Batches: 20 - Items Remaining: 37832
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 72.67% - Requests: 300 - Batches: 30 - Items Remaining: 30033
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 74.75% - Requests: 400 - Batches: 40 - Items Remaining: 22295
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.60% - Requests: 500 - Batches: 50 - Items Remaining: 13636
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.50% - Requests: 600 - Batches: 60 - Items Remaining: 6865
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.86% - Requests: 700 - Batches: 70 - Items Remaining: 2648
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.84% - Requests: 794 - Batches: 80 - Items Remaining: 304
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 78.84% - Requests: 794 - Batches: 80 - Items Remaining: 304
+INFO:pmaw.PushshiftAPIBase:304 result(s) not found in Pushshift
+Time taken: 853.9006850719452s
+
+Currently on: 2021-11-13
+INFO:pmaw.PushshiftAPIBase:40253 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 100 - Batches: 10 - Items Remaining: 31659
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 200 - Batches: 20 - Items Remaining: 23459
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.00% - Requests: 300 - Batches: 30 - Items Remaining: 14778
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.25% - Requests: 400 - Batches: 40 - Items Remaining: 7752
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.40% - Requests: 500 - Batches: 50 - Items Remaining: 1066
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 87.88% - Requests: 528 - Batches: 54 - Items Remaining: 152
+INFO:pmaw.PushshiftAPIBase:152 result(s) not found in Pushshift
+Time taken: 629.9511048793793s
+
+Currently on: 2021-11-14
+INFO:pmaw.PushshiftAPIBase:45300 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 95.00% - Requests: 100 - Batches: 10 - Items Remaining: 35800
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 96.50% - Requests: 200 - Batches: 20 - Items Remaining: 26131
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 96.33% - Requests: 300 - Batches: 30 - Items Remaining: 17095
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.50% - Requests: 400 - Batches: 40 - Items Remaining: 10144
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 500 - Batches: 50 - Items Remaining: 3626
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.25% - Requests: 594 - Batches: 60 - Items Remaining: 215
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 91.25% - Requests: 594 - Batches: 60 - Items Remaining: 215
+INFO:pmaw.PushshiftAPIBase:215 result(s) not found in Pushshift
+Time taken: 623.8724210262299s
+
+Currently on: 2021-11-15
+INFO:pmaw.PushshiftAPIBase:55774 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 100 - Batches: 10 - Items Remaining: 46778
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.00% - Requests: 200 - Batches: 20 - Items Remaining: 37581
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.67% - Requests: 300 - Batches: 30 - Items Remaining: 28085
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.00% - Requests: 400 - Batches: 40 - Items Remaining: 18691
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.80% - Requests: 500 - Batches: 50 - Items Remaining: 11274
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 600 - Batches: 60 - Items Remaining: 6007
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.57% - Requests: 700 - Batches: 70 - Items Remaining: 3126
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 87.96% - Requests: 781 - Batches: 79 - Items Remaining: 339
+INFO:pmaw.PushshiftAPIBase:339 result(s) not found in Pushshift
+Time taken: 864.9835903644562s
+
+Currently on: 2021-11-16
+INFO:pmaw.PushshiftAPIBase:78344 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 100.00% - Requests: 100 - Batches: 10 - Items Remaining: 68348
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.50% - Requests: 200 - Batches: 20 - Items Remaining: 59451
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.67% - Requests: 300 - Batches: 30 - Items Remaining: 51903
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.75% - Requests: 400 - Batches: 40 - Items Remaining: 43051
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.40% - Requests: 500 - Batches: 50 - Items Remaining: 37102
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.83% - Requests: 600 - Batches: 60 - Items Remaining: 29908
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.29% - Requests: 700 - Batches: 70 - Items Remaining: 24961
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.62% - Requests: 800 - Batches: 80 - Items Remaining: 17340
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.89% - Requests: 900 - Batches: 90 - Items Remaining: 10613
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.30% - Requests: 1000 - Batches: 100 - Items Remaining: 5521
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.45% - Requests: 1100 - Batches: 110 - Items Remaining: 1268
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 83.91% - Requests: 1131 - Batches: 114 - Items Remaining: 825
+INFO:pmaw.PushshiftAPIBase:825 result(s) not found in Pushshift
+Time taken: 1241.7375745773315s
+
+Currently on: 2021-11-17
+INFO:pmaw.PushshiftAPIBase:53540 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 99.00% - Requests: 100 - Batches: 10 - Items Remaining: 43642
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 98.50% - Requests: 200 - Batches: 20 - Items Remaining: 33884
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 97.33% - Requests: 300 - Batches: 30 - Items Remaining: 24546
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.75% - Requests: 400 - Batches: 40 - Items Remaining: 16539
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.80% - Requests: 500 - Batches: 50 - Items Remaining: 9024
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.67% - Requests: 600 - Batches: 60 - Items Remaining: 4098
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.57% - Requests: 700 - Batches: 70 - Items Remaining: 1245
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.68% - Requests: 727 - Batches: 73 - Items Remaining: 322
+INFO:pmaw.PushshiftAPIBase:322 result(s) not found in Pushshift
+Time taken: 829.9605286121368s
+
+Currently on: 2021-11-18
+INFO:pmaw.PushshiftAPIBase:56458 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 97.00% - Requests: 100 - Batches: 10 - Items Remaining: 46765
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 95.00% - Requests: 200 - Batches: 20 - Items Remaining: 37469
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.00% - Requests: 300 - Batches: 30 - Items Remaining: 28773
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.50% - Requests: 400 - Batches: 40 - Items Remaining: 20781
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 500 - Batches: 50 - Items Remaining: 12776
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.67% - Requests: 600 - Batches: 60 - Items Remaining: 6962
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.57% - Requests: 700 - Batches: 70 - Items Remaining: 943
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.03% - Requests: 729 - Batches: 73 - Items Remaining: 412
+INFO:pmaw.PushshiftAPIBase:412 result(s) not found in Pushshift
+Time taken: 801.0071756839752s
+
+Currently on: 2021-11-19
+INFO:pmaw.PushshiftAPIBase:62238 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 100 - Batches: 10 - Items Remaining: 53838
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.50% - Requests: 200 - Batches: 20 - Items Remaining: 44540
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.67% - Requests: 300 - Batches: 30 - Items Remaining: 35943
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.75% - Requests: 400 - Batches: 40 - Items Remaining: 28131
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.80% - Requests: 500 - Batches: 50 - Items Remaining: 20253
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.67% - Requests: 600 - Batches: 60 - Items Remaining: 11068
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.00% - Requests: 700 - Batches: 70 - Items Remaining: 5693
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.50% - Requests: 800 - Batches: 80 - Items Remaining: 2576
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 88.18% - Requests: 863 - Batches: 87 - Items Remaining: 433
+INFO:pmaw.PushshiftAPIBase:433 result(s) not found in Pushshift
+Time taken: 910.4362666606903s
+
+Currently on: 2021-11-20
+INFO:pmaw.PushshiftAPIBase:39379 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 100 - Batches: 10 - Items Remaining: 30182
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.50% - Requests: 200 - Batches: 20 - Items Remaining: 20567
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.67% - Requests: 300 - Batches: 30 - Items Remaining: 12006
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.25% - Requests: 400 - Batches: 40 - Items Remaining: 4246
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 94.68% - Requests: 489 - Batches: 49 - Items Remaining: 171
+INFO:pmaw.PushshiftAPIBase:171 result(s) not found in Pushshift
+Time taken: 575.9827032089233s
+
+Currently on: 2021-11-21
+INFO:pmaw.PushshiftAPIBase:46983 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 97.00% - Requests: 100 - Batches: 10 - Items Remaining: 37289
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.00% - Requests: 200 - Batches: 20 - Items Remaining: 28390
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.33% - Requests: 300 - Batches: 30 - Items Remaining: 21406
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.00% - Requests: 400 - Batches: 40 - Items Remaining: 14111
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.00% - Requests: 500 - Batches: 50 - Items Remaining: 8156
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.50% - Requests: 600 - Batches: 60 - Items Remaining: 2327
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 82.03% - Requests: 679 - Batches: 68 - Items Remaining: 270
+INFO:pmaw.PushshiftAPIBase:270 result(s) not found in Pushshift
+Time taken: 720.691440820694s
+
+Currently on: 2021-11-22
+INFO:pmaw.PushshiftAPIBase:47005 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.00% - Requests: 100 - Batches: 10 - Items Remaining: 38919
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.50% - Requests: 200 - Batches: 20 - Items Remaining: 30175
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.67% - Requests: 300 - Batches: 30 - Items Remaining: 22418
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.25% - Requests: 400 - Batches: 40 - Items Remaining: 15137
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.20% - Requests: 500 - Batches: 50 - Items Remaining: 7526
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.33% - Requests: 600 - Batches: 60 - Items Remaining: 2706
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 84.16% - Requests: 669 - Batches: 68 - Items Remaining: 250
+INFO:pmaw.PushshiftAPIBase:250 result(s) not found in Pushshift
+Time taken: 752.8394756317139s
+
+Currently on: 2021-11-23
+INFO:pmaw.PushshiftAPIBase:52731 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.00% - Requests: 100 - Batches: 10 - Items Remaining: 43332
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.50% - Requests: 200 - Batches: 20 - Items Remaining: 34234
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.33% - Requests: 300 - Batches: 30 - Items Remaining: 24893
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.75% - Requests: 400 - Batches: 40 - Items Remaining: 16534
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.60% - Requests: 500 - Batches: 50 - Items Remaining: 8569
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.67% - Requests: 600 - Batches: 60 - Items Remaining: 3879
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.29% - Requests: 700 - Batches: 70 - Items Remaining: 1095
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.74% - Requests: 731 - Batches: 74 - Items Remaining: 331
+INFO:pmaw.PushshiftAPIBase:331 result(s) not found in Pushshift
+Time taken: 838.988523721695s
+
+Currently on: 2021-11-24
+INFO:pmaw.PushshiftAPIBase:48953 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.00% - Requests: 100 - Batches: 10 - Items Remaining: 41258
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.00% - Requests: 200 - Batches: 20 - Items Remaining: 32778
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.33% - Requests: 300 - Batches: 30 - Items Remaining: 25528
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.00% - Requests: 400 - Batches: 40 - Items Remaining: 18935
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.40% - Requests: 500 - Batches: 50 - Items Remaining: 11183
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.17% - Requests: 600 - Batches: 60 - Items Remaining: 4415
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.14% - Requests: 700 - Batches: 70 - Items Remaining: 2541
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 77.10% - Requests: 773 - Batches: 78 - Items Remaining: 295
+INFO:pmaw.PushshiftAPIBase:295 result(s) not found in Pushshift
+Time taken: 795.1190609931946s
+
+Currently on: 2021-11-25
+INFO:pmaw.PushshiftAPIBase:46344 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 98.00% - Requests: 100 - Batches: 10 - Items Remaining: 36546
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.50% - Requests: 200 - Batches: 20 - Items Remaining: 27653
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.33% - Requests: 300 - Batches: 30 - Items Remaining: 19718
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.25% - Requests: 400 - Batches: 40 - Items Remaining: 11898
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.40% - Requests: 500 - Batches: 50 - Items Remaining: 4566
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.75% - Requests: 595 - Batches: 60 - Items Remaining: 216
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.75% - Requests: 595 - Batches: 60 - Items Remaining: 216
+INFO:pmaw.PushshiftAPIBase:216 result(s) not found in Pushshift
+Time taken: 628.7790529727936s
+
+Currently on: 2021-11-26
+INFO:pmaw.PushshiftAPIBase:42134 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 97.00% - Requests: 100 - Batches: 10 - Items Remaining: 32442
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 97.50% - Requests: 200 - Batches: 20 - Items Remaining: 22687
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 98.33% - Requests: 300 - Batches: 30 - Items Remaining: 13316
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 96.75% - Requests: 400 - Batches: 40 - Items Remaining: 6002
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.40% - Requests: 500 - Batches: 50 - Items Remaining: 1656
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 93.11% - Requests: 537 - Batches: 55 - Items Remaining: 244
+INFO:pmaw.PushshiftAPIBase:244 result(s) not found in Pushshift
+Time taken: 558.163655757904s
+
+Currently on: 2021-11-27
+INFO:pmaw.PushshiftAPIBase:51059 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 100 - Batches: 10 - Items Remaining: 41868
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.00% - Requests: 200 - Batches: 20 - Items Remaining: 33677
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.00% - Requests: 300 - Batches: 30 - Items Remaining: 26788
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 75.50% - Requests: 400 - Batches: 40 - Items Remaining: 20907
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 74.20% - Requests: 500 - Batches: 50 - Items Remaining: 16307
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 73.17% - Requests: 600 - Batches: 60 - Items Remaining: 10037
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 72.43% - Requests: 700 - Batches: 70 - Items Remaining: 4596
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 73.62% - Requests: 800 - Batches: 80 - Items Remaining: 1427
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 74.17% - Requests: 844 - Batches: 85 - Items Remaining: 303
+INFO:pmaw.PushshiftAPIBase:303 result(s) not found in Pushshift
+Time taken: 905.7277934551239s
+
+Currently on: 2021-11-28
+INFO:pmaw.PushshiftAPIBase:44296 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 73.00% - Requests: 100 - Batches: 10 - Items Remaining: 37011
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.50% - Requests: 200 - Batches: 20 - Items Remaining: 28225
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.67% - Requests: 300 - Batches: 30 - Items Remaining: 20087
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.25% - Requests: 400 - Batches: 40 - Items Remaining: 13506
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.80% - Requests: 500 - Batches: 50 - Items Remaining: 7084
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.17% - Requests: 600 - Batches: 60 - Items Remaining: 2225
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.99% - Requests: 668 - Batches: 70 - Items Remaining: 252
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 78.03% - Requests: 669 - Batches: 71 - Items Remaining: 252
+INFO:pmaw.PushshiftAPIBase:252 result(s) not found in Pushshift
+Time taken: 686.5113608837128s
+
+Currently on: 2021-11-29
+INFO:pmaw.PushshiftAPIBase:57105 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.00% - Requests: 100 - Batches: 10 - Items Remaining: 48912
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 74.00% - Requests: 200 - Batches: 20 - Items Remaining: 42322
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 71.67% - Requests: 300 - Batches: 30 - Items Remaining: 35648
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 74.00% - Requests: 400 - Batches: 40 - Items Remaining: 27652
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 75.80% - Requests: 500 - Batches: 50 - Items Remaining: 20110
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 76.33% - Requests: 600 - Batches: 60 - Items Remaining: 12447
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 76.71% - Requests: 700 - Batches: 70 - Items Remaining: 7541
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.00% - Requests: 800 - Batches: 80 - Items Remaining: 3960
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 77.63% - Requests: 885 - Batches: 89 - Items Remaining: 399
+INFO:pmaw.PushshiftAPIBase:399 result(s) not found in Pushshift
+Time taken: 1028.3429491519928s
+
+Currently on: 2021-11-30
+INFO:pmaw.PushshiftAPIBase:55495 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 72.00% - Requests: 100 - Batches: 10 - Items Remaining: 48303
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.50% - Requests: 200 - Batches: 20 - Items Remaining: 39621
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.00% - Requests: 300 - Batches: 30 - Items Remaining: 31431
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.50% - Requests: 400 - Batches: 40 - Items Remaining: 23188
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.00% - Requests: 500 - Batches: 50 - Items Remaining: 15267
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.67% - Requests: 600 - Batches: 60 - Items Remaining: 6953
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.57% - Requests: 700 - Batches: 70 - Items Remaining: 2394
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.91% - Requests: 764 - Batches: 78 - Items Remaining: 361
+INFO:pmaw.PushshiftAPIBase:361 result(s) not found in Pushshift
+Time taken: 880.4124162197113s
+
+Currently on: 2021-12-01
+INFO:pmaw.PushshiftAPIBase:63656 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 100 - Batches: 10 - Items Remaining: 54461
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.50% - Requests: 200 - Batches: 20 - Items Remaining: 46172
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.33% - Requests: 300 - Batches: 30 - Items Remaining: 38677
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.75% - Requests: 400 - Batches: 40 - Items Remaining: 29609
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.40% - Requests: 500 - Batches: 50 - Items Remaining: 21259
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.33% - Requests: 600 - Batches: 60 - Items Remaining: 13266
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 700 - Batches: 70 - Items Remaining: 9230
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.12% - Requests: 800 - Batches: 80 - Items Remaining: 2109
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 88.78% - Requests: 847 - Batches: 85 - Items Remaining: 447
+INFO:pmaw.PushshiftAPIBase:447 result(s) not found in Pushshift
+Time taken: 923.4950506687164s
+
+Currently on: 2021-12-02
+INFO:pmaw.PushshiftAPIBase:65610 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 100 - Batches: 10 - Items Remaining: 57022
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.50% - Requests: 200 - Batches: 20 - Items Remaining: 47730
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.33% - Requests: 300 - Batches: 30 - Items Remaining: 38835
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.50% - Requests: 400 - Batches: 40 - Items Remaining: 31316
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 84.60% - Requests: 500 - Batches: 50 - Items Remaining: 24528
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.67% - Requests: 600 - Batches: 60 - Items Remaining: 16112
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.57% - Requests: 700 - Batches: 70 - Items Remaining: 10324
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.50% - Requests: 800 - Batches: 80 - Items Remaining: 5586
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.22% - Requests: 900 - Batches: 90 - Items Remaining: 1171
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 86.28% - Requests: 933 - Batches: 94 - Items Remaining: 545
+INFO:pmaw.PushshiftAPIBase:545 result(s) not found in Pushshift
+Time taken: 1075.1945657730103s
+
+Currently on: 2021-12-03
+INFO:pmaw.PushshiftAPIBase:60301 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 97.00% - Requests: 100 - Batches: 10 - Items Remaining: 50612
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 97.00% - Requests: 200 - Batches: 20 - Items Remaining: 40916
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 94.67% - Requests: 300 - Batches: 30 - Items Remaining: 31933
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 93.75% - Requests: 400 - Batches: 40 - Items Remaining: 22901
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.80% - Requests: 500 - Batches: 50 - Items Remaining: 17360
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.50% - Requests: 600 - Batches: 60 - Items Remaining: 10093
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.00% - Requests: 700 - Batches: 70 - Items Remaining: 6559
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.25% - Requests: 800 - Batches: 80 - Items Remaining: 567
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.42% - Requests: 813 - Batches: 82 - Items Remaining: 435
+INFO:pmaw.PushshiftAPIBase:435 result(s) not found in Pushshift
+Time taken: 973.9865415096283s
+
+Currently on: 2021-12-04
+INFO:pmaw.PushshiftAPIBase:53224 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 69.00% - Requests: 100 - Batches: 10 - Items Remaining: 46332
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 77.50% - Requests: 200 - Batches: 20 - Items Remaining: 37738
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 76.33% - Requests: 300 - Batches: 30 - Items Remaining: 30341
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 75.50% - Requests: 400 - Batches: 40 - Items Remaining: 23057
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 78.60% - Requests: 500 - Batches: 50 - Items Remaining: 14053
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.67% - Requests: 600 - Batches: 60 - Items Remaining: 6837
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 82.71% - Requests: 700 - Batches: 70 - Items Remaining: 3068
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 83.33% - Requests: 780 - Batches: 78 - Items Remaining: 331
+INFO:pmaw.PushshiftAPIBase:331 result(s) not found in Pushshift
+Time taken: 874.8536992073059s
+
+Currently on: 2021-12-05
+INFO:pmaw.PushshiftAPIBase:49036 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.00% - Requests: 100 - Batches: 10 - Items Remaining: 40543
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.50% - Requests: 200 - Batches: 20 - Items Remaining: 31557
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.67% - Requests: 300 - Batches: 30 - Items Remaining: 22523
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 400 - Batches: 40 - Items Remaining: 14671
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 87.60% - Requests: 500 - Batches: 50 - Items Remaining: 7139
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 600 - Batches: 60 - Items Remaining: 2636
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 89.04% - Requests: 675 - Batches: 68 - Items Remaining: 324
+INFO:pmaw.PushshiftAPIBase:324 result(s) not found in Pushshift
+Time taken: 768.8460998535156s
+
+Currently on: 2021-12-06
+INFO:pmaw.PushshiftAPIBase:54245 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 100 - Batches: 10 - Items Remaining: 45650
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 200 - Batches: 20 - Items Remaining: 36456
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.67% - Requests: 300 - Batches: 30 - Items Remaining: 27403
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.75% - Requests: 400 - Batches: 40 - Items Remaining: 18852
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 500 - Batches: 50 - Items Remaining: 11110
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.17% - Requests: 600 - Batches: 60 - Items Remaining: 4528
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.00% - Requests: 700 - Batches: 70 - Items Remaining: 889
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 91.25% - Requests: 720 - Batches: 72 - Items Remaining: 342
+INFO:pmaw.PushshiftAPIBase:342 result(s) not found in Pushshift
+Time taken: 841.7666356563568s
+
+Currently on: 2021-12-07
+INFO:pmaw.PushshiftAPIBase:55363 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 65.00% - Requests: 100 - Batches: 10 - Items Remaining: 48872
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 71.50% - Requests: 200 - Batches: 20 - Items Remaining: 41076
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 73.67% - Requests: 300 - Batches: 30 - Items Remaining: 33310
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 69.75% - Requests: 400 - Batches: 40 - Items Remaining: 27516
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 72.40% - Requests: 500 - Batches: 50 - Items Remaining: 19936
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 76.83% - Requests: 600 - Batches: 60 - Items Remaining: 11265
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 79.00% - Requests: 700 - Batches: 70 - Items Remaining: 5457
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.12% - Requests: 800 - Batches: 80 - Items Remaining: 1574
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 80.77% - Requests: 858 - Batches: 87 - Items Remaining: 411
+INFO:pmaw.PushshiftAPIBase:411 result(s) not found in Pushshift
+Time taken: 951.6777691841125s
+
+Currently on: 2021-12-08
+INFO:pmaw.PushshiftAPIBase:60297 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 90.00% - Requests: 100 - Batches: 10 - Items Remaining: 51301
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.50% - Requests: 200 - Batches: 20 - Items Remaining: 42404
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 92.00% - Requests: 300 - Batches: 30 - Items Remaining: 32733
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 91.50% - Requests: 400 - Batches: 40 - Items Remaining: 24031
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.80% - Requests: 500 - Batches: 50 - Items Remaining: 17359
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.83% - Requests: 600 - Batches: 60 - Items Remaining: 9984
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 89.00% - Requests: 700 - Batches: 70 - Items Remaining: 6138
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 88.71% - Requests: 797 - Batches: 80 - Items Remaining: 478
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 87.90% - Requests: 810 - Batches: 83 - Items Remaining: 400
+INFO:pmaw.PushshiftAPIBase:400 result(s) not found in Pushshift
+Time taken: 896.5464813709259s
+
+Currently on: 2021-12-09
+INFO:pmaw.PushshiftAPIBase:55911 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 80.00% - Requests: 100 - Batches: 10 - Items Remaining: 47921
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 81.00% - Requests: 200 - Batches: 20 - Items Remaining: 39730
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 83.33% - Requests: 300 - Batches: 30 - Items Remaining: 30935
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.50% - Requests: 400 - Batches: 40 - Items Remaining: 22597
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 85.80% - Requests: 500 - Batches: 50 - Items Remaining: 14740
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.00% - Requests: 600 - Batches: 60 - Items Remaining: 6875
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 86.86% - Requests: 700 - Batches: 70 - Items Remaining: 3467
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 87.56% - Requests: 788 - Batches: 79 - Items Remaining: 432
+INFO:pmaw.PushshiftAPIBase:432 result(s) not found in Pushshift
+Time taken: 879.7826216220856s
+
+Currently on: 2021-12-10
+INFO:pmaw.PushshiftAPIBase:59750 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 70.00% - Requests: 100 - Batches: 10 - Items Remaining: 52757
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 66.50% - Requests: 200 - Batches: 20 - Items Remaining: 46459
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 64.33% - Requests: 300 - Batches: 30 - Items Remaining: 40645
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.50% - Requests: 400 - Batches: 40 - Items Remaining: 35815
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 59.60% - Requests: 500 - Batches: 50 - Items Remaining: 30242
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 61.50% - Requests: 600 - Batches: 60 - Items Remaining: 24388
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.43% - Requests: 700 - Batches: 70 - Items Remaining: 19444
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.62% - Requests: 800 - Batches: 80 - Items Remaining: 15027
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.67% - Requests: 900 - Batches: 90 - Items Remaining: 10864
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 59.50% - Requests: 1000 - Batches: 100 - Items Remaining: 6823
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.36% - Requests: 1100 - Batches: 110 - Items Remaining: 1292
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 60.15% - Requests: 1172 - Batches: 118 - Items Remaining: 443
+INFO:pmaw.PushshiftAPIBase:443 result(s) not found in Pushshift
+Time taken: 1397.237585067749s
+
+Currently on: 2021-12-11
+INFO:pmaw.PushshiftAPIBase:59358 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.00% - Requests: 100 - Batches: 10 - Items Remaining: 54366
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 55.00% - Requests: 200 - Batches: 20 - Items Remaining: 48378
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.67% - Requests: 300 - Batches: 30 - Items Remaining: 42398
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.00% - Requests: 400 - Batches: 40 - Items Remaining: 38201
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.00% - Requests: 500 - Batches: 50 - Items Remaining: 33426
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.83% - Requests: 600 - Batches: 60 - Items Remaining: 27390
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.71% - Requests: 700 - Batches: 70 - Items Remaining: 23176
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 52.12% - Requests: 800 - Batches: 80 - Items Remaining: 20021
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.89% - Requests: 900 - Batches: 90 - Items Remaining: 16736
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.60% - Requests: 1000 - Batches: 100 - Items Remaining: 13797
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 49.00% - Requests: 1100 - Batches: 110 - Items Remaining: 11752
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 48.83% - Requests: 1200 - Batches: 120 - Items Remaining: 8029
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 50.85% - Requests: 1300 - Batches: 130 - Items Remaining: 3694
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.80% - Requests: 1392 - Batches: 140 - Items Remaining: 482
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 51.79% - Requests: 1396 - Batches: 143 - Items Remaining: 459
+INFO:pmaw.PushshiftAPIBase:459 result(s) not found in Pushshift
+Time taken: 1555.4781827926636s
+
+Currently on: 2021-12-12
+INFO:pmaw.PushshiftAPIBase:56996 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 51.00% - Requests: 100 - Batches: 10 - Items Remaining: 51902
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.00% - Requests: 200 - Batches: 20 - Items Remaining: 45808
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 61.00% - Requests: 300 - Batches: 30 - Items Remaining: 38762
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 58.00% - Requests: 400 - Batches: 40 - Items Remaining: 34067
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.60% - Requests: 500 - Batches: 50 - Items Remaining: 29179
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.50% - Requests: 600 - Batches: 60 - Items Remaining: 23596
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 55.71% - Requests: 700 - Batches: 70 - Items Remaining: 19148
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.12% - Requests: 800 - Batches: 80 - Items Remaining: 14410
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.00% - Requests: 900 - Batches: 90 - Items Remaining: 9591
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.80% - Requests: 1000 - Batches: 100 - Items Remaining: 6688
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.64% - Requests: 1100 - Batches: 110 - Items Remaining: 3070
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 58.49% - Requests: 1190 - Batches: 120 - Items Remaining: 605
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 58.41% - Requests: 1195 - Batches: 124 - Items Remaining: 464
+INFO:pmaw.PushshiftAPIBase:414 result(s) not found in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 58.44% - Requests: 1196 - Batches: 125 - Items Remaining: 50
+INFO:pmaw.PushshiftAPIBase:50 result(s) not found in Pushshift
+Time taken: 1320.8082678318024s
+
+Currently on: 2021-12-13
+INFO:pmaw.PushshiftAPIBase:60332 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 58.00% - Requests: 100 - Batches: 10 - Items Remaining: 54534
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 60.00% - Requests: 200 - Batches: 20 - Items Remaining: 48337
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 58.67% - Requests: 300 - Batches: 30 - Items Remaining: 42745
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.75% - Requests: 400 - Batches: 40 - Items Remaining: 37393
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 55.80% - Requests: 500 - Batches: 50 - Items Remaining: 32822
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.50% - Requests: 600 - Batches: 60 - Items Remaining: 28232
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.71% - Requests: 700 - Batches: 70 - Items Remaining: 23725
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.37% - Requests: 800 - Batches: 80 - Items Remaining: 18613
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.67% - Requests: 900 - Batches: 90 - Items Remaining: 14261
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 55.00% - Requests: 1000 - Batches: 100 - Items Remaining: 10632
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 55.00% - Requests: 1100 - Batches: 110 - Items Remaining: 7255
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.42% - Requests: 1200 - Batches: 120 - Items Remaining: 3779
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.38% - Requests: 1300 - Batches: 130 - Items Remaining: 2078
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.43% - Requests: 1400 - Batches: 140 - Items Remaining: 622
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 53.35% - Requests: 1419 - Batches: 145 - Items Remaining: 421
+INFO:pmaw.PushshiftAPIBase:380 result(s) not found in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 53.38% - Requests: 1420 - Batches: 146 - Items Remaining: 41
+INFO:pmaw.PushshiftAPIBase:41 result(s) not found in Pushshift
+Time taken: 1617.4918541908264s
+
+Currently on: 2021-12-14
+INFO:pmaw.PushshiftAPIBase:56892 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 59.00% - Requests: 100 - Batches: 10 - Items Remaining: 50993
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 58.00% - Requests: 200 - Batches: 20 - Items Remaining: 45295
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.33% - Requests: 300 - Batches: 30 - Items Remaining: 40897
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.50% - Requests: 400 - Batches: 40 - Items Remaining: 35498
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.60% - Requests: 500 - Batches: 50 - Items Remaining: 29644
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 53.67% - Requests: 600 - Batches: 60 - Items Remaining: 24825
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 55.57% - Requests: 700 - Batches: 70 - Items Remaining: 19278
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 55.50% - Requests: 800 - Batches: 80 - Items Remaining: 14446
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 54.78% - Requests: 900 - Batches: 90 - Items Remaining: 10671
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.00% - Requests: 1000 - Batches: 100 - Items Remaining: 5577
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.45% - Requests: 1100 - Batches: 110 - Items Remaining: 3102
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.18% - Requests: 1184 - Batches: 120 - Items Remaining: 359
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 57.20% - Requests: 1187 - Batches: 122 - Items Remaining: 344
+INFO:pmaw.PushshiftAPIBase:329 result(s) not found in Pushshift
+INFO:pmaw.PushshiftAPIBase:Total:: Success Rate: 57.19% - Requests: 1189 - Batches: 124 - Items Remaining: 15
+INFO:pmaw.PushshiftAPIBase:15 result(s) not found in Pushshift
+Time taken: 1280.452275276184s
+
+Currently on: 2021-12-15
+INFO:pmaw.PushshiftAPIBase:0 result(s) available in Pushshift
+Time taken: 0.2597644329071045s
+
+Currently on: 2021-12-16
+INFO:pmaw.PushshiftAPIBase:55107 result(s) available in Pushshift
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 61.00% - Requests: 100 - Batches: 10 - Items Remaining: 49016
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 61.00% - Requests: 200 - Batches: 20 - Items Remaining: 42929
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.33% - Requests: 300 - Batches: 30 - Items Remaining: 38236
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.75% - Requests: 400 - Batches: 40 - Items Remaining: 32466
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.40% - Requests: 500 - Batches: 50 - Items Remaining: 26492
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 56.17% - Requests: 600 - Batches: 60 - Items Remaining: 21762
+INFO:pmaw.PushshiftAPIBase:Checkpoint:: Success Rate: 57.00% - Requests: 700 - Batches: 70 - Items Remaining: 16777

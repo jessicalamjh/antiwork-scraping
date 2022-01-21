@@ -31,23 +31,21 @@ else:
 # run
 if __name__ == '__main__':
     
-    start_time = time.time()
-
     # prepare timeframe
     start = [int(_) for _ in args.start.split("-")]
     end = [int(_) for _ in args.end.split("-")]
     start = datetime(*start)
     end = datetime(*end)
-
-    print(f"Scraping {args.mode} between {start} and {end} from r/antiwork")
     
     for i in range((end - start).days):
+
+        start_time = time.time()
 
         # prepare start and end of date
         date = start + timedelta(i)
         after = int(date.timestamp())
         before = int((date + timedelta(1)).timestamp())
-        print(f"\nCurrently on: {date.strftime('%Y-%m-%d')}")
+        print(f"Currently on: {date.strftime('%Y-%m-%d')}")
 
         # export posts/comments made on this date
         outpath = path.join(
@@ -59,7 +57,6 @@ if __name__ == '__main__':
             print(json.dumps(entry), file=f_out)
         f_out.close()
 
-        print(f"Cumulative time elapsed: {time.time() - start_time}s")
+        print(f"Time taken: {time.time() - start_time}s\n")
 
-    # report time
-    print(f"\nTotal time elapsed: {time.time() - start_time}s")
+    print("Done")
