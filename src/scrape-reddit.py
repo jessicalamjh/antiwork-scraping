@@ -24,7 +24,6 @@ args = parser.parse_args()
 # run
 if __name__ == '__main__':
     
-    
     # prepare timeframe
     start = [int(_) for _ in args.start.split("-")]
     end = [int(_) for _ in args.end.split("-")]
@@ -62,7 +61,6 @@ if __name__ == '__main__':
 
                 print(f"Scraping {args.mode} made on {prettydate}")
                 print(f"Scraped on: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-                print(f"Number of results returned: {api.metadata_.get('results_returned')}")
                 print(f"Shards: {api.metadata_.get('shards')}")
 
                 for entry in data:
