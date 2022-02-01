@@ -1,5 +1,1 @@
-Scraping posts made on 2021-06-18
-Scraped on: 2022-01-24 13:09
-Number of results returned: 27
-Shards: {'failed': 0, 'skipped': 0, 'successful': 4, 'total': 4}
-Time taken: 14.7s
+{"mode": "posts", "date_scraped": "2021-06-18", "run_date": "2022-01-28 23:53", "shard_data": {"failed": 0, "skipped": 0, "successful": 4, "total": 4}, "time_taken": "12.9s"}

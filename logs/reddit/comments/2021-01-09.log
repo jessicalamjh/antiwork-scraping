@@ -1,5 +1,1 @@
-Scraping comments made on 2021-01-09
-Scraped on: 2022-01-23 23:38
-Number of results returned: 0
-Shards: {'failed': 0, 'skipped': 0, 'successful': 4, 'total': 4}
-Time taken: 23.3s
+{"mode": "comments", "date_scraped": "2021-01-09", "run_date": "2022-01-30 20:49", "shard_data": {"failed": 0, "skipped": 0, "successful": 4, "total": 4}, "time_taken": "18.3s"}

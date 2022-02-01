@@ -1,4 +1,1 @@
-Scraping posts made on 2020-07-02
-Scraped on: 2022-01-26 17:24
-Shards: {'failed': 0, 'skipped': 0, 'successful': 20, 'total': 24}
-Time taken: 13.2s
+{"mode": "posts", "date_scraped": "2020-07-02", "run_date": "2022-01-30 16:24", "shard_data": {"failed": 0, "skipped": 0, "successful": 20, "total": 24}, "time_taken": "13.9s"}

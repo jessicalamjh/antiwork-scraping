@@ -1,5 +1,1 @@
-Scraping comments made on 2020-08-09
-Scraped on: 2022-01-24 00:16
-Number of results returned: 0
-Shards: {'failed': 0, 'skipped': 0, 'successful': 67, 'total': 74}
-Time taken: 26.3s
+{"mode": "comments", "date_scraped": "2020-08-09", "run_date": "2022-01-30 18:26", "shard_data": {"failed": 0, "skipped": 0, "successful": 67, "total": 74}, "time_taken": "17.8s"}

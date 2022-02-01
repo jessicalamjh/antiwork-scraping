@@ -1,5 +1,1 @@
-Scraping posts made on 2021-08-06
-Scraped on: 2022-01-24 13:23
-Number of results returned: None
-Shards: None
-Time taken: 0.251s
+{"mode": "posts", "date_scraped": "2021-08-06", "run_date": "2022-01-29 00:04", "shard_data": {"failed": 0, "skipped": 0, "successful": 4, "total": 4}, "time_taken": "13.7s"}
