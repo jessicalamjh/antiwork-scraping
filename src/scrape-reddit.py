@@ -2,10 +2,7 @@ import argparse
 from datetime import datetime, timedelta
 import json
 import os.path as path
-import sys
 import time
-
-import contextlib, io
 
 from pmaw import PushshiftAPI
 
@@ -15,10 +12,14 @@ parser = argparse.ArgumentParser("PSAW scraper for r/antiwork")
 parser.add_argument("--mode", choices=["posts", "comments"], help="Scrape either posts or comments")
 parser.add_argument("--start", help="Start date for scraping (YYYY-MM-DD), inclusive")
 parser.add_argument("--end", help="End date for scraping (YYYY-MM-DD), not inclusive")
-parser.add_argument("--outs-dir", help="Path to folder for scraped data")
-parser.add_argument("--logs-dir", help="Path to folder for scraping logs")
 
 args = parser.parse_args()
+
+###############################################################################
+# directories
+root_dir = path.dirname(path.dirname(__file__))
+data_dir = path.join(root_dir, f"data/reddit/original/{args.mode}")
+logs_dir = path.join(root_dir, f"logs/reddit/{args.mode}")
 
 ###############################################################################
 # run
@@ -34,36 +35,52 @@ if __name__ == '__main__':
     for i in range((end - start).days):
         start_time = time.time()
 
+        # get date to be scraped
         date = start + timedelta(i)
         prettydate = date.strftime(format='%Y-%m-%d')
 
-        # prepare scraping api
+        # prepare log and out paths
+        log_path = path.join(logs_dir, f"{prettydate}.log")
+        out_path = path.join(
+            data_dir, f"{date.strftime(format='%Y-%m-%d')}.jsonl")
+
+        # if log exists, shard metadata was good, and scraped output is nonempty, then continue to next date
+        try:
+            with open(log_path, 'r') as f_log:
+                x = json.load(f_log)
+            shard_data = x['shard_data']
+            assert shard_data['successful'] == shard_data['total']
+            assert path.getsize(out_path) != 0
+            continue
+        except:
+            print(f"{prettydate} will be re-scraped")
+
+        # get data from api with appropriate mode
         api = PushshiftAPI()
         if args.mode == "posts":
             searcher = api.search_submissions
         else:
             searcher = api.search_comments
 
-        # prepare log and out paths
-        log_path = path.join(
-            args.logs_dir, args.mode, f"{prettydate}.log")
-        out_path = path.join(
-            args.outs_dir, args.mode, 
-            f"{date.strftime(format='%Y-%m-%d')}.jsonl")
+        data = searcher(
+            subreddit="antiwork", 
+            after=int(date.timestamp()), 
+            before=int((date + timedelta(1)).timestamp()))
 
+        # if shard metadata is not available, skip to next date
+        if api.metadata_.get('shards') is None:
+            continue
 
+        # export scraped data and metadata log
         with open(log_path, 'w') as f_log, open(out_path, 'w') as f_out:
-            with contextlib.redirect_stdout(f_log):
-                data = searcher(
-                    subreddit="antiwork", 
-                    after=int(date.timestamp()), 
-                    before=int((date + timedelta(1)).timestamp()))
+            for entry in data:
+                print(json.dumps(entry), file=f_out)
 
-                print(f"Scraping {args.mode} made on {prettydate}")
-                print(f"Scraped on: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-                print(f"Shards: {api.metadata_.get('shards')}")
-
-                for entry in data:
-                    print(json.dumps(entry), file=f_out)
-
-                print(f"Time taken: {time.time() - start_time:.3}s")
+            log = {
+                'mode': args.mode,
+                'date_scraped': prettydate,
+                'run_date': datetime.now().strftime('%Y-%m-%d %H:%M'),
+                'shard_data': api.metadata_.get('shards'),
+                'time_taken': f"{time.time() - start_time:.3}s"
+            }
+            json.dump(log, fp=f_log)
