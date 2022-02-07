@@ -29,34 +29,38 @@ else:
 
 ###############################################################################
 # run
-def preprocess(text):
-    doc = nlp(text)
+def preprocess(x, key=key):
+    doc = nlp(x[key]) # run spacy model
 
-    full_lemmas = [] # list of list of lemmas
-    filtered_lemmas = [] # same as full_lemmas, but without stopwords
+    tokens = [] # list of list of lowercased tokens
+    lemmas = [] # list of list of lemmatized tokens
+    filtered_lemmas = [] # same as lemmas, but no stopwords and non-letters
 
     for sent in doc.sents:
-        # lemmatize, lowercase, and remove any non-alphabetical characters
-        lemmas = [re.sub(r"[^a-z]", "", tok.lemma_.lower()) for tok in sent]
+        # get lists of tokens/lemmas/filtered lemmas in sentence
+        sent_tokens = [tok.text.lower() for tok in sent]
+        sent_lemmas = [tok.lemma_.lower() for tok in sent]
+        filtered_sent_lemmas = [
+            tok.lemma_.lower() for tok in sent 
+            if tok.is_alpha and not tok.is_stop]
 
-        # remove lemmas that are empty strings
-        full_lemmas.append([lem for lem in lemmas if len(lem) > 0])
+        # skip empty entries
+        tokens.append([tok for tok in sent_tokens if tok])
+        lemmas.append([lem for lem in sent_lemmas if lem])
+        filtered_lemmas.append([lem for lem in filtered_sent_lemmas if lem])
 
-        # remove any stopwords
-        filtered_lemmas.append([
-            lem for lem, tok in zip(lemmas, sent) 
-            if len(lem) > 0 and not tok.is_stop])
-
-    # remove any empty sentences 
-    full_lemmas = [sent for sent in full_lemmas if sent]
-    filtered_lemmas = [sent for sent in filtered_lemmas if sent]
+    # remove any empty sentences
+    out = x.copy()
+    out['tokens'] = [sent for sent in tokens if sent]
+    out['lemmas'] = [sent for sent in lemmas if sent]
+    out['filtered_lemmas'] = [sent for sent in filtered_lemmas if sent]
     
-    return full_lemmas, filtered_lemmas
+    return out
 
 if __name__ == '__main__':
 
     # get list of all filtered data
-    filenames = os.listdir(filtered_dir)
+    filenames = sorted(os.listdir(filtered_dir))
 
     for filename in tqdm(filenames):
 
@@ -64,16 +68,9 @@ if __name__ == '__main__':
         filepath = path.join(filtered_dir, filename)
         out_path = path.join(preprocessed_dir, filename)
 
+        # preprocess each entry and export
         with open(filepath, 'r') as f, open(out_path, 'w') as f_out:
             for line in f:
                 x = json.loads(line)
-
-                # preprocess text into list of list of lemmas (two versions)
-                full_lemmas, filtered_lemmas = preprocess(x[key])
-
-                # export only if lemmatized text is nonempty
-                if full_lemmas:
-                    x[f'lemmatized_{key}'] = full_lemmas
-                    x[f'filtered_lemmatized_{key}'] = filtered_lemmas
-
-                    print(json.dumps(x), file=f_out)
+                x = preprocess(x)
+                print(json.dumps(x), file=f_out)
