@@ -1,0 +1,8 @@
+{
+  "mode": "posts",
+  "min_n_lemmas": 6,
+  "no_below": 6,
+  "no_above": 0.33,
+  "min_n_topics": 3,
+  "max_n_topics": 50
+}

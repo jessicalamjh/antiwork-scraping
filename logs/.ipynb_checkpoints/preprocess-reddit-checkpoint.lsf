@@ -1,0 +1,35 @@
+Sender: LSF System <lsfadmin@eu-g1-018-1>
+Subject: Job 204092252: <python src/preprocess-reddit.py --mode posts > logs/preprocess-reddit.log> in cluster <euler> Done
+
+Job <python src/preprocess-reddit.py --mode posts > logs/preprocess-reddit.log> was submitted from host <eu-login-24> by user <jehong> in cluster <euler> at Tue Feb  8 14:11:52 2022
+Job was executed on host(s) <eu-g1-018-1>, in queue <normal.4h>, as user <jehong> in cluster <euler> at Tue Feb  8 14:12:04 2022
+</cluster/home/jehong> was used as the home directory.
+</cluster/work/lawecon/Work/jessica/antiwork-scraping> was used as the working directory.
+Started at Tue Feb  8 14:12:04 2022
+Terminated at Tue Feb  8 14:53:52 2022
+Results reported at Tue Feb  8 14:53:52 2022
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python src/preprocess-reddit.py --mode posts > logs/preprocess-reddit.log
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2485.71 sec.
+    Max Memory :                                 2680 MB
+    Average Memory :                             2286.04 MB
+    Total Requested Memory :                     10000.00 MB
+    Delta Memory :                               7320.00 MB
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   2507 sec.
+    Turnaround time :                            2520 sec.
+
+The output (if any) follows:
+

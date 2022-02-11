@@ -1,0 +1,243 @@
+
+n_topics = 3
+- company worker employee post union need think good employer way
+- money life live year think need know thing way good
+- tell hour say week get company year manager know ask
+
+n_topics = 4
+- company worker employee post union need think good know employer
+- know fuck think money thing shit life fucking need not
+- tell hour week say get year manager company ask know
+- live year money life need think country wage cost school
+
+n_topics = 5
+- company post good know think sub need way change thing
+- life know money think thing need fuck live feel good
+- tell hour week say get year manager company ask come
+- live money year need country think government life system class
+- worker employee company union wage customer store business owner tip
+
+n_topics = 6
+- company worker post employee union sub good think need change
+- money life live need think thing way world know year
+- year know feel get life find good thing month feel_like
+- tip restaurant school teacher class amp student kid food think
+- worker know customer shit employee fuck interview fucking owner fire
+- tell hour say week manager company get ask come year
+
+n_topics = 7
+- company employee good know post position new think employer team
+- money think know thing fuck not sub shit fucking way
+- year know get feel month bad start leave week tell
+- tip restaurant amp school teacher student food class server kid
+- worker union wage right strike labor government business profit minimum_wage
+- tell hour say week manager get come ask boss leave
+- life live need money system think world way thing society
+
+n_topics = 8
+- post sub think need way change good worker right antiwork
+- life money live thing know think need fuck year make
+- company tell manager boss say ask know new year leave
+- country class teacher live school student child education teach food
+- worker employee union company employer wage business know amazon benefit
+- hour week tell say get year manager come ask store
+- money company year need cost government buy profit business wage
+- get tell know come week year feel boss leave sick
+
+n_topics = 9
+- post sub think change need way good antiwork idea see
+- money life think thing fuck know live year make not
+- year client experience company find know help field project month
+- school amp class student teacher teach child kid college education
+- worker union wage strike right employee profit employer business labor
+- hour week shift store home holiday get come need schedule
+- money live need life buy cost year government rent system
+- tell get know week come boss feel leave year say
+- company tell say manager ask employee year new get boss
+
+n_topics = 10
+- post sub think know good way antiwork see idea lot
+- fuck money not shit fucking know thing think hate life
+- project client company year remote find month know tech take
+- life need live country system society think world capitalism thing
+- worker profit government power strike labor corporation need union right
+- hour year money live rent month home need house cost
+- buy sell product money need stock machine water truck car
+- year life get feel know school family feel_like kid hour
+- company employee year raise employer position worker offer wage salary
+- tell say hour manager week get come ask boss know
+
+n_topics = 11
+- post sub think good know way lot thing read antiwork
+- fuck money not fucking shit know thing think need hate
+- year month school student experience need college money tax loan
+- live think life money country child world amp value rich
+- union worker strike tip amazon kellogg unionize fight vote mcdonald
+- hour holiday home week year christmas office vacation month need
+- buy money sell food product price need cost car company
+- year life get feel know hour family feel_like week live
+- company year employee raise position offer employer hire wage salary
+- tell say manager week get hour come ask boss know
+- worker need system labor government power right capitalism wage world
+
+n_topics = 12
+- post sub think know antiwork good way see change lot
+- not know thing fuck think shit fucking need amazon talk
+- company client project team know month new office email take
+- life think thing world money live value hard way rich
+- union worker strike profit deserve demand right unionize need protect
+- year hour month money cost holiday need week dollar minimum_wage
+- buy money sell need food product live think stock know
+- year know get school feel life start find kid feel_like
+- company employee year position raise offer interview employer hire new
+- tell say manager hour week get come boss ask know
+- worker government labor need system capitalism right country power wage
+- live hour life hate money fuck fucking make shit home
+
+n_topics = 13
+- post good amp feel way issue think read know find
+- thing know not think change need way sub fuck try
+- year experience school college field find degree know student start
+- think post sub anti antiwork idea life subreddit live world
+- interview tip driver gift test question interviewer know apply white
+- hour year week month holiday home christmas vacation need cost
+- money buy sell bank loan need landlord steal water know
+- feel year sick get know covid leave quit start month
+- company employee year employer raise worker union business position offer
+- tell say manager ask get boss come week hour know
+- worker need system labor government power strike right capitalism country
+- life live money family hate hour fuck make fucking know
+- worker wage profit money good well business value teacher need
+
+n_topics = 14
+- post antiwork read good write feel way issue share create
+- thing know think not sub need change post way help
+- dog documentation watch video free sheet husband take tax spend
+- country world think system society rich government live capitalism life
+- strike tip worker union group service organize plant need culture
+- year hour month week holiday company home vacation raise bonus
+- money buy need sell food live inflation cost product use
+- year school get know start college month feel help find
+- company employee position year offer interview hire employer new ask
+- tell say manager get week come hour ask boss know
+- post subreddit boycott worker anti movement community john protest leftist
+- life hour live money feel week family home know make
+- worker wage union labor business profit employer benefit minimum_wage need
+- fuck fucking shit amp life die man know hate bullshit
+
+n_topics = 15
+- good way feel issue new person think write lot question
+- think sub thing know need post way change idea lot
+- company year position month new offer experience hire find team
+- money live life rich think country poor society thing hard
+- business owner tip employee restaurant customer worker service driver small_business
+- holiday christmas vacation home year pto city week need rent
+- buy food need bank loan landlord money water housing debt
+- year get school know feel sick start kid college leave
+- employee company covid staff boss employer fire ask state management
+- tell say manager get ask week come hour boss know
+- post subreddit anti comment movement man john antiwork mod sub
+- hour week live money home family make need life get
+- worker union wage labor need government power benefit right profit
+- fuck fucking shit life hate amp know die thing care
+- year company raise money bonus dollar cost buy employee sell
+
+n_topics = 16
+- post good feel sub think know way lot antiwork thing
+- not thing think know change need start way help money
+- year school experience month college student degree find apply field
+- server teacher think teach child song agent anti class division
+- union worker strike tip organize power unionize vote local fight
+- office home pto remote use holiday need travel city return
+- life need system world live money think thing society way
+- sick year feel get know covid leave quit start week
+- employer worker employee state wage minimum_wage law post country sub
+- tell say hour week manager get come ask boss know
+- post class party man movement political boycott protest worker right
+- life live money hour family make think hate know kid
+- worker wage labor business profit value benefit need good mean
+- fuck fucking shit amp bullshit die hate try system man
+- year money buy company cost sell dollar raise bonus sale
+- company employee year position new raise hire offer interview know
+
+n_topics = 17
+- good feel know way post think issue read thing lot
+- not thing money amazon know think man change game need
+- life find thing year partner know spend feel love enjoy
+- post think sub idea see antiwork value lot comment reddit
+- white ban rule black fear victim remove worker supply control
+- year month rent union live need home benefit business cost
+- buy steal item hand know refuse water stock general_manager police
+- year get sick school covid know feel start kid leave
+- position year offer ask salary new role state current experience
+- tell hour week say manager get come boss ask leave
+- worker union sub strike labor right need movement support power
+- life know live fuck hate money think shit fucking make
+- well plant song dream worker productivity good animal artist way
+- interview apply experience look resume application know degree find get
+- year wage raise hour minimum_wage increase high make bonus dollar
+- company employee manager know hire tell management leave new business
+- need money live country government world system rich life society
+
+n_topics = 18
+- good feel way help find create read lot thing think
+- not know thing need think talk way change let help
+- amp office remote october partner computer tech home spend wfh
+- post sub think antiwork see subreddit lot anti idea strike
+- tip restaurant owner server service staff driver industry district_manager crew
+- money live rent month home year house hour car cost
+- government money bank inflation loan need happen use control stock
+- year school know get start life find good feel college
+- position interview offer ask company apply hire year employer say
+- tell manager get say boss know ask talk guy coworker
+- system need capitalism society world change country power life class
+- life live family hate bad feel make care hour money
+- worker union wage business labor benefit profit well employer value
+- life fuck fucking rich die world let thing think man
+- year tax taxis million party money hour boomer minimum_wage total
+- company employee raise year store manager management bonus new customer
+- food free buy need live eat money machine water country
+- hour week tell say come get leave boss manager shift
+
+n_topics = 19
+- post antiwork read movement sub write share see group comment
+- thing think not know need change way post sub talk
+- partner fee business tech commission credit charge take court know
+- tip restaurant server post table food cook print hotel serve
+- amazon machine driver product break factory production warehouse safety walmart
+- home office patient hour spend love need travel year nurse
+- life know think sub way change live need thing end
+- year school get start know feel month college experience good
+- position interview offer ask apply salary experience employer look hire
+- tell manager store get say come customer know boss coworker
+- man john worker division section withhold state child agent immigrant
+- hour life live week family know make money feel_like feel
+- worker need union labor system power well right wage good
+- fuck fucking amp hate shit life thing boomer bullshit know
+- year hour average gift rate insurance month dollar earn number
+- company employee year business raise bonus new employer worker know
+- money live buy rent need country cost house free food
+- tell week hour say manager boss ask get come leave
+- die pain death feel life wear shirt remember body dead
+
+n_topics = 20
+- post help good movement way support issue share know antiwork
+- not world thing need change know system think way money
+- life find partner enjoy thing feel spend know remote free
+- sub post think anti idea antiwork see lot thing know
+- worker union tip owner strike employee restaurant employer business state
+- home patient nurse hospital office travel month need short_staff healthcare
+- government control power know happen need think real use mandate
+- year school get know feel start month find college feel_like
+- interview position ask offer apply experience hire role look company
+- hour shift get week come break home need start tell
+- man boycott abuse refuse worker serve cop order ownership percentage
+- family quit week bad wife good child get home hour
+- worker wage labor need business profit value system benefit way
+- fucking fuck shit hate life know thing tired care try
+- year project good know require number build list site rate
+- company employee year raise new bonus management know hire manager
+- money live rent buy need country year cost house afford
+- tell say manager week boss ask come get leave know
+- poor game party life agreement deserve think thing white die
+- store fuck amazon buy item machine walmart know cashier shit

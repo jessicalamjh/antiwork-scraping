@@ -1,0 +1,57 @@
+Running LDA with 3, ..., 50 n_topics.
+Timestamp: 2022-02-08-1754
+
+Number of contents loaded: 68890.
+Building bigrams, id2word, and word_ids for LDA.
+Size of original id2word: 63232
+Size of filtered id2word: 24721
+
+Done with n_topics=3.
+Done with n_topics=4.
+Done with n_topics=5.
+Done with n_topics=6.
+Done with n_topics=7.
+Done with n_topics=8.
+Done with n_topics=9.
+Done with n_topics=10.
+Done with n_topics=11.
+Done with n_topics=12.
+Done with n_topics=13.
+Done with n_topics=14.
+Done with n_topics=15.
+Done with n_topics=16.
+Done with n_topics=17.
+Done with n_topics=18.
+Done with n_topics=19.
+Done with n_topics=20.
+Done with n_topics=21.
+Done with n_topics=22.
+Done with n_topics=23.
+Done with n_topics=24.
+Done with n_topics=25.
+Done with n_topics=26.
+Done with n_topics=27.
+Done with n_topics=28.
+Done with n_topics=29.
+Done with n_topics=30.
+Done with n_topics=31.
+Done with n_topics=32.
+Done with n_topics=33.
+Done with n_topics=34.
+Done with n_topics=35.
+Done with n_topics=36.
+Done with n_topics=37.
+Done with n_topics=38.
+Done with n_topics=39.
+Done with n_topics=40.
+Done with n_topics=41.
+Done with n_topics=42.
+Done with n_topics=43.
+Done with n_topics=44.
+Done with n_topics=45.
+Done with n_topics=46.
+Done with n_topics=47.
+Done with n_topics=48.
+Done with n_topics=49.
+Done with n_topics=50.
+Done.
